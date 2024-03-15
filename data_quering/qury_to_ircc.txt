@@ -1,0 +1,152 @@
+Dear IRCC Data Access Team,
+
+I am writing to request anonymized data for an academic capstone project I am undertaking as part of my BrainStation Data Science Diploma Program. The goal of this project is to develop a predictive model that estimates the probability of receiving Canadian Permanent Residency based on various criteria. The insights gained from this project aim to contribute to a deeper understanding of the factors influencing PR application outcomes, potentially aiding future applicants in strengthening their applications.
+
+I am building an educational project "Estimate your chances to get a PR in Canada and choose the most effective strategy"
+
+Immigrants to Canada face challenges understanding their chances of obtaining Permanent
+Residency (PR) due to the complexity of eligibility criteria across various programs. This uncertainty
+leads to difficulties in choosing the most suitable pathway to PR.
+
+The vision is to develop a machine learning model that predicts the likelihood of obtaining PR based
+on personal criteria. This would help immigrants prioritize their efforts and choose the most effective
+strategy for obtaining PR.
+
+This solution could significantly reduce the time and effort required for immigrants to understand
+their chances of obtaining PR, enabling a more efficient and informed decision-making process. It
+would also assist in reducing government expenditure by streamlining the PR application process.
+
+I would love to have a data in CSV format containing next columns for historical data for the last 10 years. 2013-2023
+- Age
+- Gender
+- Country of origin
+- Country of birth
+- Marital status
+- Number of dependents
+- Highest level of education attained
+- Field of study
+- Country where the highest education was completed
+- English and/or French language test scores (e.g., IELTS, CELPIP, TEF)
+- Years of work experience in Canada
+- Years of work experience outside Canada
+- NOC (National Occupational Classification) code of work experience
+- Level of study (e.g., certificate, diploma, bachelor's, master's, Ph.D.)
+- Number of close relatives in Canada
+- Previous work or study in Canada
+- Spouse's language proficiency, education, and Canadian work experience
+- Immigration program under which the application was submitted (e.g., Express Entry, Provincial Nominee Program)
+- Date of application submission (or aggregation by month)
+- Application processing times (days)
+- Application outcome (approved, rejected, pending)
+- Offer of employment in Canada
+- Provincial nomination
+- Province
+- PR program
+- any other columns you would find useful
+
+Can IRCC provide anonymized data on PR applicants covering the demographics, education, language proficiency, work experience, and other relevant factors listed above?
+Is there historical data available on PR application outcomes over the past 10 years that can be shared, including the type of immigration program and the decision (approval/rejection)?
+Can IRCC provide details on the scoring criteria used in evaluating PR applications, particularly under the Express Entry system?
+Are there any statistics available on the impact of certain factors (e.g., Canadian work or study experience, provincial nomination) on the likelihood of receiving PR?
+What is the average processing time for PR applications under different immigration programs, and how has this changed over time?
+
+The data requested will be used exclusively for academic purposes, within the context of the mentioned capstone project. We are committed to upholding the highest standards of data privacy and will ensure that all analysis is conducted on an anonymized dataset to protect individuals' identities.
+
+I believe that the insights gained from this project could be valuable for both academic purposes and practical applications in immigration policy and practice. We appreciate IRCC’s commitment to supporting research and education and hope that you will consider this request favorably.
+Thank you for considering my request. I look forward to your positive response and are happy to provide any further information needed.
+
+Sincerely,
+Roman Ihnatov
+
+
+
+
+
+
+Dear IRCC Data Access Team,
+
+I am pursuing a Data Science Diploma at BrainStation and am working on a capstone project titled "Estimate your chances to get a PR in Canada." This project aims to create a machine learning model predicting the likelihood of obtaining Canadian PR based on applicant-specific data. Our goal is to aid potential immigrants in navigating the PR process more effectively.
+
+For this, we request access to anonymized, historical data from 2013-2023, covering:
+
+- Age
+- Gender
+- Country of origin
+- Country of birth
+- Marital status
+- Number of dependents
+- Highest level of education attained
+- Field of study
+- Country where the highest education was completed
+- English and/or French language test scores (e.g., IELTS, CELPIP, TEF)
+- Years of work experience in Canada
+- Years of work experience outside Canada
+- NOC (National Occupational Classification) code of work experience
+- Level of study (e.g., certificate, diploma, bachelor's, master's, Ph.D.)
+- Number of close relatives in Canada
+- Previous work or study in Canada
+- Spouse's language proficiency, education, and Canadian work experience
+- Immigration program under which the application was submitted (e.g., Express Entry, Provincial Nominee Program)
+- Date of application submission (or aggregation by month)
+- Application processing times (days)
+- Application outcome (approved, rejected, pending)
+- Offer of employment in Canada
+- Provincial nomination
+- Province
+- PR program
+- any other columns you would find useful
+
+Data should ideally be in CSV format for analysis. This information will solely be used for academic purposes, under strict data privacy standards.
+
+This project not only benefits academic research but could also streamline the PR application process, offering insights for both applicants and policy development.
+
+We value IRCC's support for educational endeavors and look forward to potentially collaborating on this initiative.
+
+Thank you for considering our request. I am eager to discuss further details as needed.
+
+Best regards,
+Roman Ihnatov
+
+
+1500 characters
+
+Dear IRCC Data Access Team,
+
+I am pursuing a Data Science Diploma at BrainStation and am working on a capstone project titled "Estimate your chances to get a PR in Canada." This project aims to create a machine learning model predicting the likelihood of obtaining Canadian PR based on applicant-specific data.
+For this, we request access to anonymized, historical data from 2013-2023, covering:
+- Age
+- Gender
+- Country of origin
+- Country of birth
+- Marital status
+- Number of dependents
+- Highest level of education
+- Field of study
+- Country highest education completed
+- English / French test scores
+- Years of work experience in Canada
+- Years of work experience outside Canada
+- NOC code of work experience
+- Level of study (e.g., diploma, Ph.D.)
+- Number of close relatives in Canada
+- Previous work or study in Canada
+- Spouse's language proficiency, education, and Canadian work experience
+- Immigr. program application was submitted (e.g.,Express Entry, PNP)
+- Date of app. submission (or aggregation by month)
+- App. processing times (days)
+- App. outcome (approved,rejected,pending)
+- Offer of employment in Canada
+- Provincial nomination
+- Province
+- PR program
+- any other useful
+
+CSV format.
+
+This information will solely be used for academic purposes, under strict data privacy standards.
+This project not only benefits academic research but could also streamline the PR application process, offering insights for both applicants and policy development.
+Thank you for considering our request.
+Best regards,
+Roman Ihnatov
+
+
