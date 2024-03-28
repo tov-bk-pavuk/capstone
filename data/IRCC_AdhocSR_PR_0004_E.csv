@@ -1,0 +1,3210 @@
+﻿permit_holders,landing_year,citizenship_country
+3325,2000,Afghanistan
+1815,2000,Albania
+2865,2000,Algeria
+70,2000,Angola
+15,2000,Antigua and Barbuda
+425,2000,Argentina
+125,2000,Armenia
+600,2000,Australia
+95,2000,Austria
+75,2000,Azerbaijan
+15,2000,"Bahama Islands, The"
+35,2000,Bahrain
+3115,2000,Bangladesh
+120,2000,Barbados
+515,2000,Belarus
+370,2000,Belgium
+30,2000,Belize
+35,2000,"Benin, Republic of"
+5,2000,Bhutan
+30,2000,Bolivia
+855,2000,Bosnia-Herzegovina
+--,2000,"Botswana, Republic of"
+845,2000,Brazil
+5,2000,Brunei
+1170,2000,Bulgaria
+30,2000,Burkina-Faso
+340,2000,Burundi
+245,2000,Cambodia
+245,2000,"Cameroon, Federal Republic of"
+--,2000,Cape Verde Islands
+10,2000,Central African Republic
+150,2000,"Chad, Republic of"
+365,2000,Chile
+35495,2000,"China, People's Republic of"
+2255,2000,Colombia
+--,2000,Comoros
+1230,2000,"Congo, Democratic Republic of the"
+120,2000,"Congo, People's Republic of the"
+105,2000,Costa Rica
+715,2000,Croatia
+815,2000,Cuba
+15,2000,Cyprus
+470,2000,Czech Republic
+95,2000,Denmark
+145,2000,"Djibouti, Republic of"
+70,2000,Dominica
+240,2000,Dominican Republic
+335,2000,Ecuador
+1640,2000,Egypt
+565,2000,El Salvador
+--,2000,"Equatorial Guinea, Republic of"
+155,2000,Eritrea
+60,2000,Estonia
+1070,2000,Ethiopia
+460,2000,Fiji
+70,2000,Finland
+3765,2000,France
+15,2000,Gabon Republic
+25,2000,Gambia
+85,2000,Georgia
+1700,2000,Germany
+955,2000,Ghana
+150,2000,Greece
+370,2000,Grenada
+325,2000,Guatemala
+170,2000,"Guinea, Republic of"
+--,2000,Guinea-Bissau
+1300,2000,Guyana
+1625,2000,Haiti
+200,2000,Honduras
+470,2000,Hong Kong
+420,2000,Hungary
+10,2000,Iceland
+28535,2000,India
+1135,2000,"Indonesia, Republic of"
+5880,2000,Iran
+2590,2000,Iraq
+180,2000,"Ireland, Republic of"
+2510,2000,Israel
+385,2000,Italy
+120,2000,"Ivory Coast, Republic of"
+2475,2000,Jamaica
+1010,2000,Japan
+1510,2000,Jordan
+450,2000,Kazakhstan
+495,2000,Kenya
+--,2000,Kiribati
+5,2000,"Korea, People's Democratic Republic of"
+7615,2000,"Korea, Republic of"
+115,2000,Kuwait
+55,2000,Kyrgyzstan
+35,2000,Laos
+130,2000,Latvia
+1900,2000,Lebanon
+--,2000,Lesotho
+55,2000,Liberia
+210,2000,Libya
+115,2000,Lithuania
+5,2000,Luxembourg
+--,2000,Macau
+235,2000,Macedonia
+30,2000,Madagascar
+10,2000,Malawi
+360,2000,Malaysia
+--,2000,"Maldives, Republic of"
+65,2000,"Mali, Republic of"
+10,2000,Malta
+15,2000,Mauritania
+200,2000,Mauritius
+1655,2000,Mexico
+290,2000,Moldova
+--,2000,Monaco
+15,2000,"Mongolia, People's Republic of"
+2665,2000,Morocco
+--,2000,Mozambique
+120,2000,Myanmar (Burma)
+10,2000,Namibia
+--,2000,Nauru
+235,2000,Nepal
+835,2000,"Netherlands, The"
+--,2000,Nevis
+210,2000,New Zealand
+140,2000,Nicaragua
+20,2000,"Niger, Republic of the"
+1180,2000,Nigeria
+--,2000,"Northern Mariana Islands, Commonwealth of the"
+55,2000,Norway
+355,2000,Not stated
+5,2000,Oman
+4810,2000,Other Countries
+15395,2000,Pakistan
+235,2000,Palestinian Authority (Gaza/West Bank)
+45,2000,"Panama, Republic of"
+--,2000,Papua New Guinea
+30,2000,Paraguay
+595,2000,Peru
+10730,2000,Philippines
+1470,2000,Poland
+470,2000,Portugal
+--,2000,Qatar
+4530,2000,Romania
+3840,2000,Russia
+385,2000,Rwanda
+--,2000,"Samoa, Independent State of"
+--,2000,Sao Tome and Principe
+90,2000,Saudi Arabia
+120,2000,Senegal
+15,2000,Seychelles
+310,2000,Sierra Leone
+445,2000,Singapore
+460,2000,Slovak Republic
+25,2000,Slovenia
+1560,2000,"Somalia, Democratic Republic of"
+1760,2000,"South Africa, Republic of"
+95,2000,Spain
+6075,2000,Sri Lanka
+10,2000,St. Kitts-Nevis
+95,2000,St. Lucia
+280,2000,St. Vincent and the Grenadines
+2340,2000,Stateless
+910,2000,"Sudan, Democratic Republic of"
+15,2000,Surinam
+--,2000,Swaziland
+140,2000,Sweden
+470,2000,Switzerland
+925,2000,Syria
+3535,2000,Taiwan
+5,2000,Tajikistan
+200,2000,"Tanzania, United Republic of"
+255,2000,Thailand
+55,2000,"Togo, Republic of"
+900,2000,"Trinidad and Tobago, Republic of"
+435,2000,Tunisia
+1100,2000,Turkey
+5,2000,Turkmenistan
+65,2000,Uganda
+3345,2000,Ukraine
+25,2000,United Arab Emirates
+8825,2000,United Kingdom and Colonies
+5430,2000,United States of America
+75,2000,Uruguay
+100,2000,Uzbekistan
+445,2000,Venezuela
+1795,2000,Vietnam
+120,2000,Yemen
+40,2000,Zambia
+100,2000,Zimbabwe
+4065,2001,Afghanistan
+1600,2001,Albania
+3420,2001,Algeria
+--,2001,Andorra
+170,2001,Angola
+25,2001,Antigua and Barbuda
+635,2001,Argentina
+85,2001,Armenia
+800,2001,Australia
+135,2001,Austria
+100,2001,Azerbaijan
+20,2001,"Bahama Islands, The"
+15,2001,Bahrain
+3830,2001,Bangladesh
+150,2001,Barbados
+430,2001,Belarus
+340,2001,Belgium
+25,2001,Belize
+65,2001,"Benin, Republic of"
+5,2001,Bhutan
+70,2001,Bolivia
+800,2001,Bosnia-Herzegovina
+--,2001,"Botswana, Republic of"
+845,2001,Brazil
+--,2001,Brunei
+1285,2001,Bulgaria
+45,2001,Burkina-Faso
+335,2001,Burundi
+260,2001,Cambodia
+205,2001,"Cameroon, Federal Republic of"
+5,2001,Cape Verde Islands
+5,2001,Central African Republic
+90,2001,"Chad, Republic of"
+370,2001,Chile
+36420,2001,"China, People's Republic of"
+2965,2001,Colombia
+15,2001,Comoros
+1245,2001,"Congo, Democratic Republic of the"
+105,2001,"Congo, People's Republic of the"
+135,2001,Costa Rica
+375,2001,Croatia
+945,2001,Cuba
+20,2001,Cyprus
+290,2001,Czech Republic
+80,2001,Denmark
+95,2001,"Djibouti, Republic of"
+80,2001,Dominica
+260,2001,Dominican Republic
+355,2001,Ecuador
+2595,2001,Egypt
+455,2001,El Salvador
+--,2001,"Equatorial Guinea, Republic of"
+220,2001,Eritrea
+30,2001,Estonia
+1060,2001,Ethiopia
+645,2001,Fiji
+55,2001,Finland
+3805,2001,France
+25,2001,Gabon Republic
+20,2001,Gambia
+125,2001,Georgia
+1455,2001,Germany
+780,2001,Ghana
+135,2001,Greece
+355,2001,Grenada
+270,2001,Guatemala
+175,2001,"Guinea, Republic of"
+--,2001,Guinea-Bissau
+1705,2001,Guyana
+2435,2001,Haiti
+180,2001,Honduras
+375,2001,Hong Kong
+625,2001,Hungary
+25,2001,Iceland
+31200,2001,India
+905,2001,"Indonesia, Republic of"
+6170,2001,Iran
+2820,2001,Iraq
+190,2001,"Ireland, Republic of"
+2435,2001,Israel
+410,2001,Italy
+145,2001,"Ivory Coast, Republic of"
+2835,2001,Jamaica
+1090,2001,Japan
+1905,2001,Jordan
+500,2001,Kazakhstan
+650,2001,Kenya
+--,2001,Kiribati
+10,2001,"Korea, People's Democratic Republic of"
+9610,2001,"Korea, Republic of"
+105,2001,Kuwait
+95,2001,Kyrgyzstan
+40,2001,Laos
+175,2001,Latvia
+2575,2001,Lebanon
+60,2001,Liberia
+230,2001,Libya
+--,2001,Liechtenstein
+185,2001,Lithuania
+5,2001,Luxembourg
+15,2001,Macau
+290,2001,Macedonia
+55,2001,Madagascar
+5,2001,Malawi
+460,2001,Malaysia
+65,2001,"Mali, Republic of"
+25,2001,Malta
+30,2001,Mauritania
+395,2001,Mauritius
+1940,2001,Mexico
+515,2001,Moldova
+--,2001,Monaco
+15,2001,"Mongolia, People's Republic of"
+4065,2001,Morocco
+--,2001,Mozambique
+115,2001,Myanmar (Burma)
+10,2001,Namibia
+--,2001,Nauru
+270,2001,Nepal
+805,2001,"Netherlands, The"
+--,2001,New Caledonia
+360,2001,New Zealand
+110,2001,Nicaragua
+25,2001,"Niger, Republic of the"
+1425,2001,Nigeria
+--,2001,"Northern Mariana Islands, Commonwealth of the"
+80,2001,Norway
+160,2001,Not stated
+10,2001,Oman
+2805,2001,Other Countries
+16700,2001,Pakistan
+340,2001,Palestinian Authority (Gaza/West Bank)
+50,2001,"Panama, Republic of"
+--,2001,Papua New Guinea
+35,2001,Paraguay
+850,2001,Peru
+13835,2001,Philippines
+1600,2001,Poland
+530,2001,Portugal
+20,2001,Qatar
+5650,2001,Romania
+4350,2001,Russia
+285,2001,Rwanda
+--,2001,"Samoa, Independent State of"
+100,2001,Saudi Arabia
+130,2001,Senegal
+10,2001,Seychelles
+385,2001,Sierra Leone
+475,2001,Singapore
+585,2001,Slovak Republic
+20,2001,Slovenia
+1155,2001,"Somalia, Democratic Republic of"
+1900,2001,"South Africa, Republic of"
+80,2001,Spain
+5860,2001,Sri Lanka
+10,2001,St. Kitts-Nevis
+115,2001,St. Lucia
+285,2001,St. Vincent and the Grenadines
+2040,2001,Stateless
+1105,2001,"Sudan, Democratic Republic of"
+20,2001,Surinam
+--,2001,Swaziland
+185,2001,Sweden
+385,2001,Switzerland
+1065,2001,Syria
+3130,2001,Taiwan
+20,2001,Tajikistan
+300,2001,"Tanzania, United Republic of"
+310,2001,Thailand
+95,2001,"Togo, Republic of"
+5,2001,Tonga
+905,2001,"Trinidad and Tobago, Republic of"
+790,2001,Tunisia
+1185,2001,Turkey
+10,2001,Turkmenistan
+95,2001,Uganda
+3510,2001,Ukraine
+40,2001,United Arab Emirates
+11695,2001,United Kingdom and Colonies
+5600,2001,United States of America
+65,2001,Uruguay
+100,2001,Uzbekistan
+--,2001,Vanuatu
+560,2001,Venezuela
+2115,2001,Vietnam
+180,2001,Yemen
+80,2001,Zambia
+110,2001,Zimbabwe
+3695,2002,Afghanistan
+1020,2002,Albania
+3405,2002,Algeria
+170,2002,Angola
+15,2002,Antigua and Barbuda
+865,2002,Argentina
+130,2002,Armenia
+745,2002,Australia
+85,2002,Austria
+185,2002,Azerbaijan
+15,2002,"Bahama Islands, The"
+15,2002,Bahrain
+2945,2002,Bangladesh
+120,2002,Barbados
+435,2002,Belarus
+305,2002,Belgium
+35,2002,Belize
+70,2002,"Benin, Republic of"
+10,2002,Bhutan
+55,2002,Bolivia
+435,2002,Bosnia-Herzegovina
+--,2002,"Botswana, Republic of"
+745,2002,Brazil
+--,2002,Brunei
+1515,2002,Bulgaria
+35,2002,Burkina-Faso
+365,2002,Burundi
+230,2002,Cambodia
+220,2002,"Cameroon, Federal Republic of"
+--,2002,Cape Verde Islands
+20,2002,Central African Republic
+75,2002,"Chad, Republic of"
+400,2002,Chile
+31920,2002,"China, People's Republic of"
+3285,2002,Colombia
+--,2002,Comoros
+1100,2002,"Congo, Democratic Republic of the"
+85,2002,"Congo, People's Republic of the"
+105,2002,Costa Rica
+305,2002,Croatia
+870,2002,Cuba
+15,2002,Cyprus
+225,2002,Czech Republic
+70,2002,Denmark
+60,2002,"Djibouti, Republic of"
+60,2002,Dominica
+200,2002,Dominican Republic
+415,2002,Ecuador
+2035,2002,Egypt
+475,2002,El Salvador
+--,2002,"Equatorial Guinea, Republic of"
+170,2002,Eritrea
+40,2002,Estonia
+820,2002,Ethiopia
+610,2002,Fiji
+60,2002,Finland
+3465,2002,France
+25,2002,Gabon Republic
+10,2002,Gambia
+125,2002,Georgia
+1375,2002,Germany
+695,2002,Ghana
+105,2002,Greece
+260,2002,Grenada
+240,2002,Guatemala
+205,2002,"Guinea, Republic of"
+--,2002,Guinea-Bissau
+1480,2002,Guyana
+2170,2002,Haiti
+145,2002,Honduras
+425,2002,Hong Kong
+535,2002,Hungary
+10,2002,Iceland
+31885,2002,India
+710,2002,"Indonesia, Republic of"
+8120,2002,Iran
+2430,2002,Iraq
+175,2002,"Ireland, Republic of"
+2540,2002,Israel
+375,2002,Italy
+185,2002,"Ivory Coast, Republic of"
+2520,2002,Jamaica
+805,2002,Japan
+1500,2002,Jordan
+420,2002,Kazakhstan
+630,2002,Kenya
+10,2002,"Korea, People's Democratic Republic of"
+7320,2002,"Korea, Republic of"
+75,2002,Kuwait
+125,2002,Kyrgyzstan
+50,2002,Laos
+155,2002,Latvia
+2330,2002,Lebanon
+--,2002,Lesotho
+55,2002,Liberia
+210,2002,Libya
+125,2002,Lithuania
+15,2002,Luxembourg
+30,2002,Macau
+355,2002,Macedonia
+60,2002,Madagascar
+5,2002,Malawi
+480,2002,Malaysia
+--,2002,"Maldives, Republic of"
+60,2002,"Mali, Republic of"
+15,2002,Malta
+25,2002,Mauritania
+350,2002,Mauritius
+1895,2002,Mexico
+610,2002,Moldova
+--,2002,Monaco
+20,2002,"Mongolia, People's Republic of"
+4175,2002,Morocco
+5,2002,Mozambique
+160,2002,Myanmar (Burma)
+10,2002,Namibia
+--,2002,Nauru
+365,2002,Nepal
+675,2002,"Netherlands, The"
+--,2002,Nevis
+320,2002,New Zealand
+70,2002,Nicaragua
+30,2002,"Niger, Republic of the"
+1400,2002,Nigeria
+75,2002,Norway
+230,2002,Not stated
+5,2002,Oman
+1625,2002,Other Countries
+15085,2002,Pakistan
+265,2002,Palestinian Authority (Gaza/West Bank)
+50,2002,"Panama, Republic of"
+60,2002,Paraguay
+855,2002,Peru
+11705,2002,Philippines
+1445,2002,Poland
+360,2002,Portugal
+--,2002,Qatar
+5765,2002,Romania
+3940,2002,Russia
+215,2002,Rwanda
+--,2002,"Samoa, Independent State of"
+70,2002,Saudi Arabia
+165,2002,Senegal
+--,2002,Seychelles
+410,2002,Sierra Leone
+585,2002,Singapore
+615,2002,Slovak Republic
+15,2002,Slovenia
+--,2002,Soloman Islands
+5,2002,"Solomons, The"
+725,2002,"Somalia, Democratic Republic of"
+1500,2002,"South Africa, Republic of"
+85,2002,Spain
+5270,2002,Sri Lanka
+10,2002,St. Kitts-Nevis
+80,2002,St. Lucia
+240,2002,St. Vincent and the Grenadines
+1435,2002,Stateless
+1495,2002,"Sudan, Democratic Republic of"
+20,2002,Surinam
+--,2002,Swaziland
+150,2002,Sweden
+275,2002,Switzerland
+955,2002,Syria
+2845,2002,Taiwan
+10,2002,Tajikistan
+300,2002,"Tanzania, United Republic of"
+545,2002,Thailand
+105,2002,"Togo, Republic of"
+--,2002,Tonga
+925,2002,"Trinidad and Tobago, Republic of"
+660,2002,Tunisia
+1295,2002,Turkey
+10,2002,Turkmenistan
+90,2002,Uganda
+3510,2002,Ukraine
+35,2002,United Arab Emirates
+8035,2002,United Kingdom and Colonies
+4950,2002,United States of America
+90,2002,Uruguay
+145,2002,Uzbekistan
+525,2002,Venezuela
+2285,2002,Vietnam
+160,2002,Yemen
+50,2002,Zambia
+190,2002,Zimbabwe
+3480,2003,Afghanistan
+855,2003,Albania
+3070,2003,Algeria
+--,2003,Andorra
+165,2003,Angola
+25,2003,Antigua and Barbuda
+1745,2003,Argentina
+155,2003,Armenia
+875,2003,Australia
+115,2003,Austria
+165,2003,Azerbaijan
+15,2003,"Bahama Islands, The"
+15,2003,Bahrain
+2135,2003,Bangladesh
+75,2003,Barbados
+435,2003,Belarus
+320,2003,Belgium
+15,2003,Belize
+80,2003,"Benin, Republic of"
+5,2003,Bhutan
+60,2003,Bolivia
+265,2003,Bosnia-Herzegovina
+--,2003,"Botswana, Republic of"
+840,2003,Brazil
+5,2003,Brunei
+1505,2003,Bulgaria
+35,2003,Burkina-Faso
+385,2003,Burundi
+275,2003,Cambodia
+295,2003,"Cameroon, Federal Republic of"
+15,2003,Cape Verde Islands
+10,2003,Central African Republic
+65,2003,"Chad, Republic of"
+345,2003,Chile
+36405,2003,"China, People's Republic of"
+4315,2003,Colombia
+10,2003,Comoros
+1235,2003,"Congo, Democratic Republic of the"
+110,2003,"Congo, People's Republic of the"
+105,2003,Costa Rica
+175,2003,Croatia
+875,2003,Cuba
+15,2003,Cyprus
+180,2003,Czech Republic
+90,2003,Denmark
+45,2003,"Djibouti, Republic of"
+65,2003,Dominica
+235,2003,Dominican Republic
+360,2003,Ecuador
+2230,2003,Egypt
+445,2003,El Salvador
+--,2003,"Equatorial Guinea, Republic of"
+260,2003,Eritrea
+55,2003,Estonia
+1395,2003,Ethiopia
+560,2003,Fiji
+65,2003,Finland
+3565,2003,France
+40,2003,Gabon Republic
+10,2003,Gambia
+125,2003,Georgia
+1860,2003,Germany
+565,2003,Ghana
+115,2003,Greece
+220,2003,Grenada
+180,2003,Guatemala
+195,2003,"Guinea, Republic of"
+5,2003,Guinea-Bissau
+1410,2003,Guyana
+1930,2003,Haiti
+105,2003,Honduras
+440,2003,Hong Kong
+490,2003,Hungary
+15,2003,Iceland
+27135,2003,India
+515,2003,"Indonesia, Republic of"
+5915,2003,Iran
+1510,2003,Iraq
+190,2003,"Ireland, Republic of"
+2315,2003,Israel
+320,2003,Italy
+120,2003,"Ivory Coast, Republic of"
+2055,2003,Jamaica
+815,2003,Japan
+1605,2003,Jordan
+540,2003,Kazakhstan
+680,2003,Kenya
+20,2003,"Korea, People's Democratic Republic of"
+7110,2003,"Korea, Republic of"
+70,2003,Kuwait
+100,2003,Kyrgyzstan
+20,2003,Laos
+110,2003,Latvia
+3175,2003,Lebanon
+--,2003,Lesotho
+140,2003,Liberia
+155,2003,Libya
+--,2003,Liechtenstein
+195,2003,Lithuania
+10,2003,Luxembourg
+20,2003,Macau
+640,2003,Macedonia
+50,2003,Madagascar
+--,2003,Malawi
+420,2003,Malaysia
+70,2003,"Mali, Republic of"
+30,2003,Malta
+25,2003,Mauritania
+565,2003,Mauritius
+1755,2003,Mexico
+590,2003,Moldova
+--,2003,Monaco
+30,2003,"Mongolia, People's Republic of"
+3370,2003,Morocco
+--,2003,Mozambique
+260,2003,Myanmar (Burma)
+5,2003,Namibia
+--,2003,Nauru
+310,2003,Nepal
+615,2003,"Netherlands, The"
+--,2003,New Caledonia
+345,2003,New Zealand
+90,2003,Nicaragua
+30,2003,"Niger, Republic of the"
+1065,2003,Nigeria
+--,2003,"Northern Mariana Islands, Commonwealth of the"
+75,2003,Norway
+195,2003,Not stated
+10,2003,Oman
+955,2003,Other Countries
+13200,2003,Pakistan
+325,2003,Palestinian Authority (Gaza/West Bank)
+55,2003,"Panama, Republic of"
+--,2003,Papua New Guinea
+90,2003,Paraguay
+1025,2003,Peru
+12760,2003,Philippines
+1395,2003,Poland
+330,2003,Portugal
+--,2003,Qatar
+5540,2003,Romania
+3720,2003,Russia
+290,2003,Rwanda
+--,2003,"Samoa, Independent State of"
+--,2003,San Marino
+70,2003,Saudi Arabia
+170,2003,Senegal
+15,2003,Seychelles
+390,2003,Sierra Leone
+390,2003,Singapore
+500,2003,Slovak Republic
+20,2003,Slovenia
+955,2003,"Somalia, Democratic Republic of"
+1245,2003,"South Africa, Republic of"
+90,2003,Spain
+4885,2003,Sri Lanka
+10,2003,St. Kitts-Nevis
+90,2003,St. Lucia
+200,2003,St. Vincent and the Grenadines
+920,2003,Stateless
+1860,2003,"Sudan, Democratic Republic of"
+20,2003,Surinam
+160,2003,Sweden
+345,2003,Switzerland
+1085,2003,Syria
+2160,2003,Taiwan
+5,2003,Tajikistan
+320,2003,"Tanzania, United Republic of"
+440,2003,Thailand
+105,2003,"Togo, Republic of"
+5,2003,Tonga
+705,2003,"Trinidad and Tobago, Republic of"
+670,2003,Tunisia
+1335,2003,Turkey
+20,2003,Turkmenistan
+115,2003,Uganda
+2755,2003,Ukraine
+30,2003,United Arab Emirates
+6790,2003,United Kingdom and Colonies
+5540,2003,United States of America
+105,2003,Uruguay
+155,2003,Uzbekistan
+--,2003,Vanuatu
+700,2003,Venezuela
+1710,2003,Vietnam
+95,2003,Yemen
+45,2003,Zambia
+670,2003,Zimbabwe
+2980,2004,Afghanistan
+1450,2004,Albania
+3615,2004,Algeria
+270,2004,Angola
+15,2004,Antigua and Barbuda
+1590,2004,Argentina
+145,2004,Armenia
+930,2004,Australia
+120,2004,Austria
+230,2004,Azerbaijan
+15,2004,"Bahama Islands, The"
+10,2004,Bahrain
+2660,2004,Bangladesh
+90,2004,Barbados
+545,2004,Belarus
+410,2004,Belgium
+25,2004,Belize
+110,2004,"Benin, Republic of"
+--,2004,Bhutan
+85,2004,Bolivia
+190,2004,Bosnia-Herzegovina
+10,2004,"Botswana, Republic of"
+915,2004,Brazil
+--,2004,Brunei
+2020,2004,Bulgaria
+95,2004,Burkina-Faso
+560,2004,Burundi
+350,2004,Cambodia
+430,2004,"Cameroon, Federal Republic of"
+--,2004,Cape Verde Islands
+15,2004,Central African Republic
+90,2004,"Chad, Republic of"
+385,2004,Chile
+36565,2004,"China, People's Republic of"
+4565,2004,Colombia
+5,2004,Comoros
+1460,2004,"Congo, Democratic Republic of the"
+140,2004,"Congo, People's Republic of the"
+165,2004,Costa Rica
+150,2004,Croatia
+865,2004,Cuba
+10,2004,Cyprus
+190,2004,Czech Republic
+90,2004,Denmark
+65,2004,"Djibouti, Republic of"
+50,2004,Dominica
+270,2004,Dominican Republic
+415,2004,Ecuador
+2395,2004,Egypt
+440,2004,El Salvador
+--,2004,"Equatorial Guinea, Republic of"
+415,2004,Eritrea
+25,2004,Estonia
+1535,2004,Ethiopia
+495,2004,Fiji
+55,2004,Finland
+4390,2004,France
+35,2004,Gabon Republic
+10,2004,Gambia
+105,2004,Georgia
+2020,2004,Germany
+735,2004,Ghana
+120,2004,Greece
+295,2004,Grenada
+215,2004,Guatemala
+280,2004,"Guinea, Republic of"
+--,2004,Guinea-Bissau
+1340,2004,Guyana
+1650,2004,Haiti
+135,2004,Honduras
+535,2004,Hong Kong
+670,2004,Hungary
+25,2004,Iceland
+28195,2004,India
+550,2004,"Indonesia, Republic of"
+6350,2004,Iran
+1795,2004,Iraq
+245,2004,"Ireland, Republic of"
+2785,2004,Israel
+335,2004,Italy
+255,2004,"Ivory Coast, Republic of"
+2235,2004,Jamaica
+975,2004,Japan
+1735,2004,Jordan
+545,2004,Kazakhstan
+685,2004,Kenya
+15,2004,"Korea, People's Democratic Republic of"
+5350,2004,"Korea, Republic of"
+75,2004,Kuwait
+245,2004,Kyrgyzstan
+40,2004,Laos
+95,2004,Latvia
+3290,2004,Lebanon
+--,2004,Lesotho
+410,2004,Liberia
+195,2004,Libya
+220,2004,Lithuania
+10,2004,Luxembourg
+20,2004,Macau
+440,2004,Macedonia
+80,2004,Madagascar
+15,2004,Malawi
+400,2004,Malaysia
+--,2004,"Maldives, Republic of"
+85,2004,"Mali, Republic of"
+30,2004,Malta
+60,2004,Mauritania
+700,2004,Mauritius
+2255,2004,Mexico
+630,2004,Moldova
+--,2004,Monaco
+35,2004,"Mongolia, People's Republic of"
+3685,2004,Morocco
+10,2004,Mozambique
+190,2004,Myanmar (Burma)
+10,2004,Namibia
+--,2004,Nauru
+405,2004,Nepal
+750,2004,"Netherlands, The"
+350,2004,New Zealand
+65,2004,Nicaragua
+40,2004,"Niger, Republic of the"
+1515,2004,Nigeria
+75,2004,Norway
+220,2004,Not stated
+10,2004,Oman
+765,2004,Other Countries
+13400,2004,Pakistan
+375,2004,Palestinian Authority (Gaza/West Bank)
+40,2004,"Panama, Republic of"
+--,2004,Papua New Guinea
+75,2004,Paraguay
+1455,2004,Peru
+14005,2004,Philippines
+1535,2004,Poland
+335,2004,Portugal
+5,2004,Qatar
+5755,2004,Romania
+3990,2004,Russia
+300,2004,Rwanda
+--,2004,"Samoa, Independent State of"
+--,2004,Sao Tome and Principe
+130,2004,Saudi Arabia
+210,2004,Senegal
+15,2004,Seychelles
+345,2004,Sierra Leone
+310,2004,Singapore
+595,2004,Slovak Republic
+15,2004,Slovenia
+1360,2004,"Somalia, Democratic Republic of"
+1175,2004,"South Africa, Republic of"
+135,2004,Spain
+4490,2004,Sri Lanka
+10,2004,St. Kitts-Nevis
+110,2004,St. Lucia
+295,2004,St. Vincent and the Grenadines
+920,2004,Stateless
+1820,2004,"Sudan, Democratic Republic of"
+15,2004,Surinam
+10,2004,Swaziland
+130,2004,Sweden
+335,2004,Switzerland
+1115,2004,Syria
+2010,2004,Taiwan
+15,2004,Tajikistan
+310,2004,"Tanzania, United Republic of"
+390,2004,Thailand
+165,2004,"Togo, Republic of"
+5,2004,Tonga
+730,2004,"Trinidad and Tobago, Republic of"
+765,2004,Tunisia
+1735,2004,Turkey
+15,2004,Turkmenistan
+--,2004,Tuvalu
+160,2004,Uganda
+2430,2004,Ukraine
+40,2004,United Arab Emirates
+7520,2004,United Kingdom and Colonies
+6990,2004,United States of America
+130,2004,Uruguay
+175,2004,Uzbekistan
+--,2004,Vanuatu
+1225,2004,Venezuela
+1815,2004,Vietnam
+110,2004,Yemen
+55,2004,Zambia
+1450,2004,Zimbabwe
+3435,2005,Afghanistan
+1225,2005,Albania
+3625,2005,Algeria
+295,2005,Angola
+25,2005,Antigua and Barbuda
+1155,2005,Argentina
+225,2005,Armenia
+910,2005,Australia
+120,2005,Austria
+360,2005,Azerbaijan
+15,2005,"Bahama Islands, The"
+10,2005,Bahrain
+4170,2005,Bangladesh
+110,2005,Barbados
+560,2005,Belarus
+400,2005,Belgium
+35,2005,Belize
+95,2005,"Benin, Republic of"
+5,2005,Bhutan
+135,2005,Bolivia
+210,2005,Bosnia-Herzegovina
+5,2005,"Botswana, Republic of"
+970,2005,Brazil
+--,2005,Brunei
+1735,2005,Bulgaria
+90,2005,Burkina-Faso
+625,2005,Burundi
+370,2005,Cambodia
+595,2005,"Cameroon, Federal Republic of"
+5,2005,Cape Verde Islands
+50,2005,Central African Republic
+125,2005,"Chad, Republic of"
+385,2005,Chile
+42570,2005,"China, People's Republic of"
+6425,2005,Colombia
+5,2005,Comoros
+1510,2005,"Congo, Democratic Republic of the"
+135,2005,"Congo, People's Republic of the"
+190,2005,Costa Rica
+130,2005,Croatia
+1000,2005,Cuba
+5,2005,Cyprus
+195,2005,Czech Republic
+60,2005,Denmark
+95,2005,"Djibouti, Republic of"
+60,2005,Dominica
+295,2005,Dominican Republic
+490,2005,Ecuador
+2495,2005,Egypt
+435,2005,El Salvador
+--,2005,"Equatorial Guinea, Republic of"
+530,2005,Eritrea
+25,2005,Estonia
+1505,2005,Ethiopia
+300,2005,Fiji
+65,2005,Finland
+4430,2005,France
+65,2005,Gabon Republic
+30,2005,Gambia
+115,2005,Georgia
+2225,2005,Germany
+850,2005,Ghana
+100,2005,Greece
+285,2005,Grenada
+190,2005,Guatemala
+255,2005,"Guinea, Republic of"
+5,2005,Guinea-Bissau
+1215,2005,Guyana
+1680,2005,Haiti
+165,2005,Honduras
+730,2005,Hong Kong
+515,2005,Hungary
+10,2005,Iceland
+36180,2005,India
+630,2005,"Indonesia, Republic of"
+5835,2005,Iran
+2225,2005,Iraq
+225,2005,"Ireland, Republic of"
+2445,2005,Israel
+345,2005,Italy
+295,2005,"Ivory Coast, Republic of"
+1945,2005,Jamaica
+1065,2005,Japan
+1940,2005,Jordan
+505,2005,Kazakhstan
+690,2005,Kenya
+--,2005,Kiribati
+15,2005,"Korea, People's Democratic Republic of"
+5825,2005,"Korea, Republic of"
+65,2005,Kuwait
+175,2005,Kyrgyzstan
+40,2005,Laos
+75,2005,Latvia
+3710,2005,Lebanon
+--,2005,Lesotho
+580,2005,Liberia
+195,2005,Libya
+--,2005,Liechtenstein
+165,2005,Lithuania
+10,2005,Luxembourg
+20,2005,Macau
+285,2005,Macedonia
+90,2005,Madagascar
+25,2005,Malawi
+590,2005,Malaysia
+85,2005,"Mali, Republic of"
+30,2005,Malta
+85,2005,Mauritania
+695,2005,Mauritius
+2835,2005,Mexico
+655,2005,Moldova
+--,2005,Monaco
+60,2005,"Mongolia, People's Republic of"
+2940,2005,Morocco
+5,2005,Mozambique
+205,2005,Myanmar (Burma)
+5,2005,Namibia
+--,2005,Nauru
+605,2005,Nepal
+815,2005,"Netherlands, The"
+--,2005,Nevis
+370,2005,New Zealand
+80,2005,Nicaragua
+60,2005,"Niger, Republic of the"
+2235,2005,Nigeria
+55,2005,Norway
+215,2005,Not stated
+15,2005,Oman
+775,2005,Other Countries
+14315,2005,Pakistan
+450,2005,Palestinian Authority (Gaza/West Bank)
+55,2005,"Panama, Republic of"
+--,2005,Papua New Guinea
+75,2005,Paraguay
+1655,2005,Peru
+18135,2005,Philippines
+1405,2005,Poland
+340,2005,Portugal
+10,2005,Qatar
+5050,2005,Romania
+3970,2005,Russia
+375,2005,Rwanda
+--,2005,"Samoa, Independent State of"
+--,2005,Sao Tome and Principe
+200,2005,Saudi Arabia
+280,2005,Senegal
+25,2005,Seychelles
+190,2005,Sierra Leone
+390,2005,Singapore
+370,2005,Slovak Republic
+25,2005,Slovenia
+--,2005,"Solomons, The"
+1195,2005,"Somalia, Democratic Republic of"
+990,2005,"South Africa, Republic of"
+125,2005,Spain
+4920,2005,Sri Lanka
+10,2005,St. Kitts-Nevis
+185,2005,St. Lucia
+345,2005,St. Vincent and the Grenadines
+835,2005,Stateless
+1310,2005,"Sudan, Democratic Republic of"
+15,2005,Surinam
+5,2005,Swaziland
+205,2005,Sweden
+270,2005,Switzerland
+1460,2005,Syria
+3095,2005,Taiwan
+85,2005,Tajikistan
+275,2005,"Tanzania, United Republic of"
+575,2005,Thailand
+155,2005,"Togo, Republic of"
+--,2005,Tonga
+855,2005,"Trinidad and Tobago, Republic of"
+755,2005,Tunisia
+2065,2005,Turkey
+40,2005,Turkmenistan
+240,2005,Uganda
+2270,2005,Ukraine
+30,2005,United Arab Emirates
+7255,2005,United Kingdom and Colonies
+8390,2005,United States of America
+215,2005,Uruguay
+330,2005,Uzbekistan
+--,2005,Vanuatu
+1210,2005,Venezuela
+1850,2005,Vietnam
+155,2005,Yemen
+90,2005,Zambia
+615,2005,Zimbabwe
+3010,2006,Afghanistan
+855,2006,Albania
+4805,2006,Algeria
+--,2006,Andorra
+185,2006,Angola
+30,2006,Antigua and Barbuda
+845,2006,Argentina
+220,2006,Armenia
+875,2006,Australia
+100,2006,Austria
+235,2006,Azerbaijan
+20,2006,"Bahama Islands, The"
+10,2006,Bahrain
+4010,2006,Bangladesh
+95,2006,Barbados
+440,2006,Belarus
+300,2006,Belgium
+25,2006,Belize
+115,2006,"Benin, Republic of"
+10,2006,Bhutan
+140,2006,Bolivia
+215,2006,Bosnia-Herzegovina
+10,2006,"Botswana, Republic of"
+1180,2006,Brazil
+5,2006,Brunei
+1420,2006,Bulgaria
+145,2006,Burkina-Faso
+470,2006,Burundi
+530,2006,Cambodia
+680,2006,"Cameroon, Federal Republic of"
+5,2006,Cape Verde Islands
+20,2006,Central African Republic
+95,2006,"Chad, Republic of"
+425,2006,Chile
+33495,2006,"China, People's Republic of"
+6535,2006,Colombia
+5,2006,Comoros
+1620,2006,"Congo, Democratic Republic of the"
+145,2006,"Congo, People's Republic of the"
+280,2006,Costa Rica
+100,2006,Croatia
+1065,2006,Cuba
+10,2006,Cyprus
+145,2006,Czech Republic
+100,2006,Denmark
+70,2006,"Djibouti, Republic of"
+70,2006,Dominica
+290,2006,Dominican Republic
+525,2006,Ecuador
+2190,2006,Egypt
+430,2006,El Salvador
+--,2006,"Equatorial Guinea, Republic of"
+700,2006,Eritrea
+20,2006,Estonia
+1800,2006,Ethiopia
+275,2006,Fiji
+50,2006,Finland
+4000,2006,France
+70,2006,Gabon Republic
+40,2006,Gambia
+125,2006,Georgia
+2765,2006,Germany
+710,2006,Ghana
+75,2006,Greece
+365,2006,Grenada
+230,2006,Guatemala
+340,2006,"Guinea, Republic of"
+10,2006,Guinea-Bissau
+1285,2006,Guyana
+1620,2006,Haiti
+165,2006,Honduras
+710,2006,Hong Kong
+520,2006,Hungary
+--,2006,Iceland
+33775,2006,India
+615,2006,"Indonesia, Republic of"
+7480,2006,Iran
+1790,2006,Iraq
+285,2006,"Ireland, Republic of"
+2620,2006,Israel
+325,2006,Italy
+430,2006,"Ivory Coast, Republic of"
+1720,2006,Jamaica
+1210,2006,Japan
+1825,2006,Jordan
+410,2006,Kazakhstan
+620,2006,Kenya
+10,2006,"Korea, People's Democratic Republic of"
+6210,2006,"Korea, Republic of"
+35,2006,Kuwait
+160,2006,Kyrgyzstan
+75,2006,Laos
+70,2006,Latvia
+3800,2006,Lebanon
+355,2006,Liberia
+280,2006,Libya
+110,2006,Lithuania
+10,2006,Luxembourg
+30,2006,Macau
+255,2006,Macedonia
+95,2006,Madagascar
+15,2006,Malawi
+580,2006,Malaysia
+115,2006,"Mali, Republic of"
+25,2006,Malta
+125,2006,Mauritania
+510,2006,Mauritius
+2845,2006,Mexico
+805,2006,Moldova
+--,2006,Monaco
+65,2006,"Mongolia, People's Republic of"
+3320,2006,Morocco
+10,2006,Mozambique
+950,2006,Myanmar (Burma)
+20,2006,Namibia
+--,2006,Nauru
+540,2006,Nepal
+835,2006,"Netherlands, The"
+320,2006,New Zealand
+95,2006,Nicaragua
+55,2006,"Niger, Republic of the"
+2595,2006,Nigeria
+55,2006,Norway
+340,2006,Not stated
+20,2006,Oman
+835,2006,Other Countries
+13125,2006,Pakistan
+625,2006,Palestinian Authority (Gaza/West Bank)
+75,2006,"Panama, Republic of"
+90,2006,Paraguay
+1475,2006,Peru
+18400,2006,Philippines
+1265,2006,Poland
+425,2006,Portugal
+--,2006,Qatar
+4470,2006,Romania
+3115,2006,Russia
+360,2006,Rwanda
+--,2006,"Samoa, American"
+--,2006,Sao Tome and Principe
+250,2006,Saudi Arabia
+415,2006,Senegal
+10,2006,Seychelles
+140,2006,Sierra Leone
+300,2006,Singapore
+240,2006,Slovak Republic
+10,2006,Slovenia
+5,2006,"Solomons, The"
+1060,2006,"Somalia, Democratic Republic of"
+1110,2006,"South Africa, Republic of"
+125,2006,Spain
+4650,2006,Sri Lanka
+--,2006,St. Kitts-Nevis
+190,2006,St. Lucia
+380,2006,St. Vincent and the Grenadines
+840,2006,Stateless
+1040,2006,"Sudan, Democratic Republic of"
+15,2006,Surinam
+5,2006,Swaziland
+140,2006,Sweden
+260,2006,Switzerland
+1145,2006,Syria
+2820,2006,Taiwan
+45,2006,Tajikistan
+290,2006,"Tanzania, United Republic of"
+500,2006,Thailand
+150,2006,"Togo, Republic of"
+795,2006,"Trinidad and Tobago, Republic of"
+1065,2006,Tunisia
+1630,2006,Turkey
+25,2006,Turkmenistan
+200,2006,Uganda
+1970,2006,Ukraine
+40,2006,United Arab Emirates
+7135,2006,United Kingdom and Colonies
+9610,2006,United States of America
+175,2006,Uruguay
+260,2006,Uzbekistan
+--,2006,Vanuatu
+1190,2006,Venezuela
+3150,2006,Vietnam
+--,2006,Western Sahara
+130,2006,Yemen
+75,2006,Zambia
+455,2006,Zimbabwe
+2650,2007,Afghanistan
+700,2007,Albania
+3625,2007,Algeria
+--,2007,Andorra
+105,2007,Angola
+15,2007,Antigua and Barbuda
+620,2007,Argentina
+200,2007,Armenia
+1030,2007,Australia
+100,2007,Austria
+205,2007,Azerbaijan
+20,2007,"Bahama Islands, The"
+20,2007,Bahrain
+2895,2007,Bangladesh
+130,2007,Barbados
+570,2007,Belarus
+365,2007,Belgium
+30,2007,Belize
+185,2007,"Benin, Republic of"
+5,2007,Bhutan
+105,2007,Bolivia
+210,2007,Bosnia-Herzegovina
+10,2007,"Botswana, Republic of"
+1745,2007,Brazil
+10,2007,Brunei
+1170,2007,Bulgaria
+135,2007,Burkina-Faso
+615,2007,Burundi
+460,2007,Cambodia
+1025,2007,"Cameroon, Federal Republic of"
+--,2007,Cape Verde Islands
+30,2007,Central African Republic
+130,2007,"Chad, Republic of"
+530,2007,Chile
+27630,2007,"China, People's Republic of"
+5355,2007,Colombia
+10,2007,Comoros
+1465,2007,"Congo, Democratic Republic of the"
+85,2007,"Congo, People's Republic of the"
+280,2007,Costa Rica
+100,2007,Croatia
+1350,2007,Cuba
+--,2007,Cyprus
+135,2007,Czech Republic
+95,2007,Denmark
+50,2007,"Djibouti, Republic of"
+80,2007,Dominica
+310,2007,Dominican Republic
+420,2007,Ecuador
+2355,2007,Egypt
+925,2007,El Salvador
+5,2007,"Equatorial Guinea, Republic of"
+700,2007,Eritrea
+35,2007,Estonia
+1505,2007,Ethiopia
+305,2007,Fiji
+60,2007,Finland
+4290,2007,France
+100,2007,Gabon Republic
+30,2007,Gambia
+130,2007,Georgia
+2450,2007,Germany
+690,2007,Ghana
+110,2007,Greece
+360,2007,Grenada
+255,2007,Guatemala
+415,2007,"Guinea, Republic of"
+5,2007,Guinea-Bissau
+1275,2007,Guyana
+1600,2007,Haiti
+165,2007,Honduras
+675,2007,Hong Kong
+425,2007,Hungary
+15,2007,Iceland
+28730,2007,India
+655,2007,"Indonesia, Republic of"
+6975,2007,Iran
+2405,2007,Iraq
+300,2007,"Ireland, Republic of"
+2400,2007,Israel
+315,2007,Italy
+620,2007,"Ivory Coast, Republic of"
+2140,2007,Jamaica
+1250,2007,Japan
+1420,2007,Jordan
+435,2007,Kazakhstan
+450,2007,Kenya
+5,2007,"Korea, People's Democratic Republic of"
+5910,2007,"Korea, Republic of"
+60,2007,Kuwait
+135,2007,Kyrgyzstan
+55,2007,Laos
+90,2007,Latvia
+3465,2007,Lebanon
+--,2007,Lesotho
+155,2007,Liberia
+200,2007,Libya
+110,2007,Lithuania
+10,2007,Luxembourg
+15,2007,Macau
+210,2007,Macedonia
+115,2007,Madagascar
+15,2007,Malawi
+600,2007,Malaysia
+--,2007,"Maldives, Republic of"
+145,2007,"Mali, Republic of"
+5,2007,Malta
+--,2007,"Marshall Islands, Republic of the"
+95,2007,Mauritania
+505,2007,Mauritius
+3240,2007,Mexico
+1100,2007,Moldova
+--,2007,Monaco
+80,2007,"Mongolia, People's Republic of"
+5,2007,"Montenegro, Republic of"
+4020,2007,Morocco
+5,2007,Mozambique
+1885,2007,Myanmar (Burma)
+15,2007,Namibia
+510,2007,Nepal
+615,2007,"Netherlands, The"
+350,2007,New Zealand
+75,2007,Nicaragua
+75,2007,"Niger, Republic of the"
+2370,2007,Nigeria
+75,2007,Norway
+145,2007,Not stated
+15,2007,Oman
+900,2007,Other Countries
+10125,2007,Pakistan
+--,2007,"Palau, Republic of"
+440,2007,Palestinian Authority (Gaza/West Bank)
+65,2007,"Panama, Republic of"
+100,2007,Paraguay
+1490,2007,Peru
+19835,2007,Philippines
+--,2007,Pitcairn Island
+1235,2007,Poland
+405,2007,Portugal
+5,2007,Qatar
+3835,2007,Romania
+2985,2007,Russia
+420,2007,Rwanda
+--,2007,"Samoa, Independent State of"
+190,2007,Saudi Arabia
+435,2007,Senegal
+45,2007,"Serbia, Republic of"
+10,2007,Seychelles
+90,2007,Sierra Leone
+690,2007,Singapore
+215,2007,Slovak Republic
+30,2007,Slovenia
+5,2007,"Solomons, The"
+1160,2007,"Somalia, Democratic Republic of"
+1200,2007,"South Africa, Republic of"
+135,2007,Spain
+4095,2007,Sri Lanka
+10,2007,St. Kitts-Nevis
+255,2007,St. Lucia
+580,2007,St. Vincent and the Grenadines
+655,2007,Stateless
+685,2007,"Sudan, Democratic Republic of"
+20,2007,Surinam
+5,2007,Swaziland
+195,2007,Sweden
+310,2007,Switzerland
+1055,2007,Syria
+2765,2007,Taiwan
+45,2007,Tajikistan
+195,2007,"Tanzania, United Republic of"
+485,2007,Thailand
+235,2007,"Togo, Republic of"
+--,2007,Tonga
+975,2007,"Trinidad and Tobago, Republic of"
+870,2007,Tunisia
+1465,2007,Turkey
+35,2007,Turkmenistan
+--,2007,Tuvalu
+170,2007,Uganda
+2220,2007,Ukraine
+35,2007,United Arab Emirates
+8215,2007,United Kingdom and Colonies
+9460,2007,United States of America
+145,2007,Uruguay
+285,2007,Uzbekistan
+1335,2007,Venezuela
+2575,2007,Vietnam
+120,2007,Yemen
+70,2007,Zambia
+665,2007,Zimbabwe
+2110,2008,Afghanistan
+560,2008,Albania
+4005,2008,Algeria
+75,2008,Angola
+30,2008,Antigua and Barbuda
+540,2008,Argentina
+205,2008,Armenia
+1020,2008,Australia
+90,2008,Austria
+125,2008,Azerbaijan
+30,2008,"Bahama Islands, The"
+10,2008,Bahrain
+2940,2008,Bangladesh
+135,2008,Barbados
+525,2008,Belarus
+335,2008,Belgium
+50,2008,Belize
+205,2008,"Benin, Republic of"
+35,2008,Bhutan
+140,2008,Bolivia
+180,2008,Bosnia-Herzegovina
+30,2008,"Botswana, Republic of"
+2135,2008,Brazil
+10,2008,Brunei
+995,2008,Bulgaria
+140,2008,Burkina-Faso
+450,2008,Burundi
+355,2008,Cambodia
+1275,2008,"Cameroon, Federal Republic of"
+5,2008,Cape Verde Islands
+30,2008,Central African Republic
+95,2008,"Chad, Republic of"
+350,2008,Chile
+30030,2008,"China, People's Republic of"
+5450,2008,Colombia
+--,2008,Comoros
+1395,2008,"Congo, Democratic Republic of the"
+70,2008,"Congo, People's Republic of the"
+245,2008,Costa Rica
+130,2008,Croatia
+1300,2008,Cuba
+5,2008,Cyprus
+105,2008,Czech Republic
+110,2008,Denmark
+45,2008,"Djibouti, Republic of"
+60,2008,Dominica
+430,2008,Dominican Republic
+435,2008,Ecuador
+3345,2008,Egypt
+1115,2008,El Salvador
+--,2008,"Equatorial Guinea, Republic of"
+795,2008,Eritrea
+35,2008,Estonia
+1610,2008,Ethiopia
+320,2008,Fiji
+90,2008,Finland
+4530,2008,France
+85,2008,Gabon Republic
+25,2008,Gambia
+110,2008,Georgia
+3835,2008,Germany
+630,2008,Ghana
+105,2008,Greece
+285,2008,Grenada
+265,2008,Guatemala
+325,2008,"Guinea, Republic of"
+--,2008,Guinea-Bissau
+1135,2008,Guyana
+2490,2008,Haiti
+185,2008,Honduras
+895,2008,Hong Kong
+380,2008,Hungary
+15,2008,Iceland
+28255,2008,India
+660,2008,"Indonesia, Republic of"
+6475,2008,Iran
+3545,2008,Iraq
+410,2008,"Ireland, Republic of"
+2560,2008,Israel
+370,2008,Italy
+645,2008,"Ivory Coast, Republic of"
+2335,2008,Jamaica
+1285,2008,Japan
+1580,2008,Jordan
+395,2008,Kazakhstan
+455,2008,Kenya
+--,2008,Kiribati
+20,2008,"Korea, People's Democratic Republic of"
+7290,2008,"Korea, Republic of"
+5,2008,"Kosovo, Republic of"
+55,2008,Kuwait
+165,2008,Kyrgyzstan
+30,2008,Laos
+65,2008,Latvia
+3565,2008,Lebanon
+--,2008,Lesotho
+75,2008,Liberia
+305,2008,Libya
+--,2008,Liechtenstein
+110,2008,Lithuania
+--,2008,Luxembourg
+10,2008,Macau
+190,2008,Macedonia
+120,2008,Madagascar
+5,2008,Malawi
+660,2008,Malaysia
+--,2008,"Maldives, Republic of"
+155,2008,"Mali, Republic of"
+20,2008,Malta
+110,2008,Mauritania
+715,2008,Mauritius
+2855,2008,Mexico
+1125,2008,Moldova
+60,2008,"Mongolia, People's Republic of"
+15,2008,"Montenegro, Republic of"
+4225,2008,Morocco
+5,2008,Mozambique
+975,2008,Myanmar (Burma)
+25,2008,Namibia
+580,2008,Nepal
+820,2008,"Netherlands, The"
+--,2008,Nevis
+480,2008,New Zealand
+125,2008,Nicaragua
+75,2008,"Niger, Republic of the"
+2110,2008,Nigeria
+65,2008,Norway
+125,2008,Not stated
+10,2008,Oman
+555,2008,Other Countries
+8985,2008,Pakistan
+480,2008,Palestinian Authority (Gaza/West Bank)
+--,2008,Panama Canal Zone
+50,2008,"Panama, Republic of"
+10,2008,Papua New Guinea
+95,2008,Paraguay
+1095,2008,Peru
+24885,2008,Philippines
+1265,2008,Poland
+665,2008,Portugal
+10,2008,Qatar
+2835,2008,Romania
+2690,2008,Russia
+360,2008,Rwanda
+--,2008,"Samoa, Independent State of"
+250,2008,Saudi Arabia
+555,2008,Senegal
+250,2008,"Serbia, Republic of"
+20,2008,Seychelles
+105,2008,Sierra Leone
+735,2008,Singapore
+125,2008,Slovak Republic
+20,2008,Slovenia
+10,2008,"Solomons, The"
+1015,2008,"Somalia, Democratic Republic of"
+1120,2008,"South Africa, Republic of"
+170,2008,Spain
+4750,2008,Sri Lanka
+25,2008,St. Kitts-Nevis
+300,2008,St. Lucia
+435,2008,St. Vincent and the Grenadines
+620,2008,Stateless
+620,2008,"Sudan, Democratic Republic of"
+10,2008,Surinam
+5,2008,Swaziland
+165,2008,Sweden
+355,2008,Switzerland
+920,2008,Syria
+2995,2008,Taiwan
+15,2008,Tajikistan
+230,2008,"Tanzania, United Republic of"
+520,2008,Thailand
+350,2008,"Togo, Republic of"
+1000,2008,"Trinidad and Tobago, Republic of"
+950,2008,Tunisia
+1120,2008,Turkey
+15,2008,Turkmenistan
+205,2008,Uganda
+1935,2008,Ukraine
+35,2008,United Arab Emirates
+8975,2008,United Kingdom and Colonies
+10185,2008,United States of America
+160,2008,Uruguay
+215,2008,Uzbekistan
+1240,2008,Venezuela
+1785,2008,Vietnam
+130,2008,Yemen
+65,2008,Zambia
+610,2008,Zimbabwe
+1745,2009,Afghanistan
+715,2009,Albania
+5390,2009,Algeria
+60,2009,Angola
+40,2009,Antigua and Barbuda
+465,2009,Argentina
+265,2009,Armenia
+1020,2009,Australia
+110,2009,Austria
+165,2009,Azerbaijan
+25,2009,"Bahama Islands, The"
+35,2009,Bahrain
+2105,2009,Bangladesh
+125,2009,Barbados
+455,2009,Belarus
+360,2009,Belgium
+40,2009,Belize
+240,2009,"Benin, Republic of"
+865,2009,Bhutan
+215,2009,Bolivia
+155,2009,Bosnia-Herzegovina
+15,2009,"Botswana, Republic of"
+2510,2009,Brazil
+5,2009,Brunei
+785,2009,Bulgaria
+160,2009,Burkina-Faso
+565,2009,Burundi
+205,2009,Cambodia
+1345,2009,"Cameroon, Federal Republic of"
+--,2009,Cape Verde Islands
+20,2009,Central African Republic
+85,2009,"Chad, Republic of"
+375,2009,Chile
+29615,2009,"China, People's Republic of"
+4650,2009,Colombia
+20,2009,Comoros
+1580,2009,"Congo, Democratic Republic of the"
+70,2009,"Congo, People's Republic of the"
+215,2009,Costa Rica
+90,2009,Croatia
+1425,2009,Cuba
+5,2009,Cyprus
+160,2009,Czech Republic
+80,2009,Denmark
+70,2009,"Djibouti, Republic of"
+60,2009,Dominica
+360,2009,Dominican Republic
+375,2009,Ecuador
+3495,2009,Egypt
+840,2009,El Salvador
+5,2009,"Equatorial Guinea, Republic of"
+905,2009,Eritrea
+25,2009,Estonia
+1285,2009,Ethiopia
+310,2009,Fiji
+65,2009,Finland
+5050,2009,France
+85,2009,Gabon Republic
+10,2009,Gambia
+130,2009,Georgia
+3885,2009,Germany
+660,2009,Ghana
+120,2009,Greece
+325,2009,Grenada
+265,2009,Guatemala
+345,2009,"Guinea, Republic of"
+1180,2009,Guyana
+2080,2009,Haiti
+170,2009,Honduras
+655,2009,Hong Kong
+310,2009,Hungary
+15,2009,Iceland
+29450,2009,India
+505,2009,"Indonesia, Republic of"
+6580,2009,Iran
+5450,2009,Iraq
+395,2009,"Ireland, Republic of"
+2315,2009,Israel
+430,2009,Italy
+670,2009,"Ivory Coast, Republic of"
+2455,2009,Jamaica
+1195,2009,Japan
+1235,2009,Jordan
+430,2009,Kazakhstan
+490,2009,Kenya
+--,2009,Kiribati
+10,2009,"Korea, People's Democratic Republic of"
+5875,2009,"Korea, Republic of"
+110,2009,"Kosovo, Republic of"
+70,2009,Kuwait
+175,2009,Kyrgyzstan
+40,2009,Laos
+85,2009,Latvia
+3080,2009,Lebanon
+10,2009,Lesotho
+95,2009,Liberia
+280,2009,Libya
+--,2009,Liechtenstein
+65,2009,Lithuania
+5,2009,Luxembourg
+20,2009,Macau
+200,2009,Macedonia
+170,2009,Madagascar
+10,2009,Malawi
+640,2009,Malaysia
+5,2009,"Maldives, Republic of"
+165,2009,"Mali, Republic of"
+20,2009,Malta
+85,2009,Mauritania
+870,2009,Mauritius
+3090,2009,Mexico
+1535,2009,Moldova
+120,2009,"Mongolia, People's Republic of"
+10,2009,"Montenegro, Republic of"
+5530,2009,Morocco
+10,2009,Mozambique
+1150,2009,Myanmar (Burma)
+15,2009,Namibia
+--,2009,Nauru
+560,2009,Nepal
+785,2009,"Netherlands, The"
+--,2009,Nevis
+520,2009,New Zealand
+115,2009,Nicaragua
+80,2009,"Niger, Republic of the"
+3155,2009,Nigeria
+75,2009,Norway
+120,2009,Not stated
+5,2009,Oman
+260,2009,Other Countries
+7215,2009,Pakistan
+400,2009,Palestinian Authority (Gaza/West Bank)
+75,2009,"Panama, Republic of"
+--,2009,Papua New Guinea
+90,2009,Paraguay
+1880,2009,Peru
+28570,2009,Philippines
+1015,2009,Poland
+620,2009,Portugal
+5,2009,Qatar
+2075,2009,Romania
+2930,2009,Russia
+415,2009,Rwanda
+--,2009,"Samoa, Independent State of"
+--,2009,Sao Tome and Principe
+245,2009,Saudi Arabia
+670,2009,Senegal
+350,2009,"Serbia, Republic of"
+--,2009,Seychelles
+70,2009,Sierra Leone
+365,2009,Singapore
+130,2009,Slovak Republic
+25,2009,Slovenia
+10,2009,Soloman Islands
+5,2009,"Solomons, The"
+1215,2009,"Somalia, Democratic Republic of"
+1190,2009,"South Africa, Republic of"
+195,2009,Spain
+4545,2009,Sri Lanka
+10,2009,St. Kitts-Nevis
+255,2009,St. Lucia
+510,2009,St. Vincent and the Grenadines
+540,2009,Stateless
+420,2009,"Sudan, Democratic Republic of"
+10,2009,Surinam
+10,2009,Swaziland
+165,2009,Sweden
+330,2009,Switzerland
+915,2009,Syria
+2470,2009,Taiwan
+50,2009,Tajikistan
+135,2009,"Tanzania, United Republic of"
+510,2009,Thailand
+400,2009,"Togo, Republic of"
+5,2009,Tonga
+1135,2009,"Trinidad and Tobago, Republic of"
+1195,2009,Tunisia
+1240,2009,Turkey
+20,2009,Turkmenistan
+185,2009,Uganda
+2365,2009,Ukraine
+35,2009,United Arab Emirates
+8870,2009,United Kingdom and Colonies
+8995,2009,United States of America
+100,2009,Uruguay
+290,2009,Uzbekistan
+--,2009,Vanuatu
+1350,2009,Venezuela
+2170,2009,Vietnam
+130,2009,Yemen
+60,2009,Zambia
+510,2009,Zimbabwe
+1760,2010,Afghanistan
+560,2010,Albania
+4750,2010,Algeria
+60,2010,Angola
+25,2010,Antigua and Barbuda
+460,2010,Argentina
+250,2010,Armenia
+935,2010,Australia
+125,2010,Austria
+210,2010,Azerbaijan
+25,2010,"Bahama Islands, The"
+30,2010,Bahrain
+4720,2010,Bangladesh
+120,2010,Barbados
+440,2010,Belarus
+365,2010,Belgium
+40,2010,Belize
+290,2010,"Benin, Republic of"
+1465,2010,Bhutan
+180,2010,Bolivia
+170,2010,Bosnia-Herzegovina
+40,2010,"Botswana, Republic of"
+2600,2010,Brazil
+10,2010,Brunei
+555,2010,Bulgaria
+185,2010,Burkina-Faso
+530,2010,Burundi
+200,2010,Cambodia
+1800,2010,"Cameroon, Federal Republic of"
+--,2010,Cape Verde Islands
+25,2010,Central African Republic
+100,2010,"Chad, Republic of"
+340,2010,Chile
+30380,2010,"China, People's Republic of"
+5220,2010,Colombia
+20,2010,Comoros
+1235,2010,"Congo, Democratic Republic of the"
+75,2010,"Congo, People's Republic of the"
+190,2010,Costa Rica
+90,2010,Croatia
+960,2010,Cuba
+20,2010,Cyprus
+170,2010,Czech Republic
+90,2010,Denmark
+125,2010,"Djibouti, Republic of"
+45,2010,Dominica
+455,2010,Dominican Republic
+355,2010,Ecuador
+5980,2010,Egypt
+770,2010,El Salvador
+--,2010,"Equatorial Guinea, Republic of"
+930,2010,Eritrea
+30,2010,Estonia
+1865,2010,Ethiopia
+400,2010,Fiji
+65,2010,Finland
+4645,2010,France
+65,2010,Gabon Republic
+35,2010,Gambia
+125,2010,Georgia
+2955,2010,Germany
+800,2010,Ghana
+100,2010,Greece
+210,2010,Grenada
+265,2010,Guatemala
+395,2010,"Guinea, Republic of"
+--,2010,Guinea-Bissau
+955,2010,Guyana
+4730,2010,Haiti
+385,2010,Honduras
+625,2010,Hong Kong
+355,2010,Hungary
+30,2010,Iceland
+34225,2010,India
+710,2010,"Indonesia, Republic of"
+7475,2010,Iran
+5940,2010,Iraq
+550,2010,"Ireland, Republic of"
+2755,2010,Israel
+435,2010,Italy
+1065,2010,"Ivory Coast, Republic of"
+2320,2010,Jamaica
+1165,2010,Japan
+1830,2010,Jordan
+375,2010,Kazakhstan
+505,2010,Kenya
+45,2010,"Korea, People's Democratic Republic of"
+5535,2010,"Korea, Republic of"
+225,2010,"Kosovo, Republic of"
+65,2010,Kuwait
+155,2010,Kyrgyzstan
+55,2010,Laos
+70,2010,Latvia
+3430,2010,Lebanon
+5,2010,Lesotho
+160,2010,Liberia
+385,2010,Libya
+55,2010,Lithuania
+10,2010,Luxembourg
+20,2010,Macau
+190,2010,Macedonia
+180,2010,Madagascar
+30,2010,Malawi
+800,2010,Malaysia
+--,2010,"Maldives, Republic of"
+170,2010,"Mali, Republic of"
+15,2010,Malta
+75,2010,Mauritania
+1455,2010,Mauritius
+3860,2010,Mexico
+1990,2010,Moldova
+--,2010,Monaco
+170,2010,"Mongolia, People's Republic of"
+15,2010,"Montenegro, Republic of"
+6240,2010,Morocco
+5,2010,Mozambique
+555,2010,Myanmar (Burma)
+15,2010,Namibia
+1390,2010,Nepal
+760,2010,"Netherlands, The"
+490,2010,New Zealand
+90,2010,Nicaragua
+80,2010,"Niger, Republic of the"
+3905,2010,Nigeria
+45,2010,Norway
+160,2010,Not stated
+15,2010,Oman
+165,2010,Other Countries
+6810,2010,Pakistan
+650,2010,Palestinian Authority (Gaza/West Bank)
+65,2010,"Panama, Republic of"
+--,2010,Papua New Guinea
+90,2010,Paraguay
+1280,2010,Peru
+38615,2010,Philippines
+795,2010,Poland
+630,2010,Portugal
+20,2010,Qatar
+1920,2010,Romania
+2290,2010,Russia
+395,2010,Rwanda
+5,2010,"Samoa, Independent State of"
+--,2010,San Marino
+--,2010,Sao Tome and Principe
+330,2010,Saudi Arabia
+765,2010,Senegal
+245,2010,"Serbia, Republic of"
+10,2010,Seychelles
+65,2010,Sierra Leone
+805,2010,Singapore
+135,2010,Slovak Republic
+10,2010,Slovenia
+5,2010,"Solomons, The"
+1525,2010,"Somalia, Democratic Republic of"
+1240,2010,"South Africa, Republic of"
+175,2010,Spain
+4420,2010,Sri Lanka
+20,2010,St. Kitts-Nevis
+250,2010,St. Lucia
+435,2010,St. Vincent and the Grenadines
+700,2010,Stateless
+610,2010,"Sudan, Democratic Republic of"
+15,2010,Surinam
+--,2010,Swaziland
+160,2010,Sweden
+285,2010,Switzerland
+1040,2010,Syria
+2630,2010,Taiwan
+50,2010,Tajikistan
+200,2010,"Tanzania, United Republic of"
+500,2010,Thailand
+355,2010,"Togo, Republic of"
+5,2010,Tonga
+915,2010,"Trinidad and Tobago, Republic of"
+1300,2010,Tunisia
+1490,2010,Turkey
+30,2010,Turkmenistan
+215,2010,Uganda
+3155,2010,Ukraine
+85,2010,United Arab Emirates
+8715,2010,United Kingdom and Colonies
+8140,2010,United States of America
+95,2010,Uruguay
+290,2010,Uzbekistan
+1000,2010,Venezuela
+1940,2010,Vietnam
+210,2010,Yemen
+100,2010,Zambia
+495,2010,Zimbabwe
+2205,2011,Afghanistan
+540,2011,Albania
+4325,2011,Algeria
+40,2011,Angola
+35,2011,Antigua and Barbuda
+280,2011,Argentina
+235,2011,Armenia
+850,2011,Australia
+85,2011,Austria
+135,2011,Azerbaijan
+40,2011,"Bahama Islands, The"
+20,2011,Bahrain
+2695,2011,Bangladesh
+95,2011,Barbados
+355,2011,Belarus
+330,2011,Belgium
+35,2011,Belize
+285,2011,"Benin, Republic of"
+1880,2011,Bhutan
+85,2011,Bolivia
+140,2011,Bosnia-Herzegovina
+55,2011,"Botswana, Republic of"
+1510,2011,Brazil
+5,2011,Brunei
+365,2011,Bulgaria
+145,2011,Burkina-Faso
+605,2011,Burundi
+195,2011,Cambodia
+1635,2011,"Cameroon, Federal Republic of"
+--,2011,Cape Verde Islands
+20,2011,Central African Republic
+80,2011,"Chad, Republic of"
+175,2011,Chile
+28490,2011,"China, People's Republic of"
+4365,2011,Colombia
+15,2011,Comoros
+1215,2011,"Congo, Democratic Republic of the"
+80,2011,"Congo, People's Republic of the"
+150,2011,Costa Rica
+135,2011,Croatia
+960,2011,Cuba
+5,2011,Cyprus
+130,2011,Czech Republic
+95,2011,Denmark
+125,2011,"Djibouti, Republic of"
+35,2011,Dominica
+735,2011,Dominican Republic
+350,2011,Ecuador
+4665,2011,Egypt
+690,2011,El Salvador
+--,2011,"Equatorial Guinea, Republic of"
+1180,2011,Eritrea
+15,2011,Estonia
+2165,2011,Ethiopia
+315,2011,Fiji
+70,2011,Finland
+4080,2011,France
+65,2011,Gabon Republic
+25,2011,Gambia
+140,2011,Georgia
+2015,2011,Germany
+530,2011,Ghana
+100,2011,Greece
+175,2011,Grenada
+290,2011,Guatemala
+350,2011,"Guinea, Republic of"
+--,2011,Guinea-Bissau
+805,2011,Guyana
+6470,2011,Haiti
+540,2011,Honduras
+585,2011,Hong Kong
+285,2011,Hungary
+40,2011,Iceland
+27485,2011,India
+390,2011,"Indonesia, Republic of"
+7480,2011,Iran
+6195,2011,Iraq
+525,2011,"Ireland, Republic of"
+1965,2011,Israel
+375,2011,Italy
+635,2011,"Ivory Coast, Republic of"
+2060,2011,Jamaica
+1265,2011,Japan
+1635,2011,Jordan
+380,2011,Kazakhstan
+585,2011,Kenya
+95,2011,"Korea, People's Democratic Republic of"
+4590,2011,"Korea, Republic of"
+210,2011,"Kosovo, Republic of"
+60,2011,Kuwait
+160,2011,Kyrgyzstan
+20,2011,Laos
+105,2011,Latvia
+3070,2011,Lebanon
+--,2011,Lesotho
+105,2011,Liberia
+350,2011,Libya
+--,2011,Liechtenstein
+50,2011,Lithuania
+10,2011,Luxembourg
+15,2011,Macau
+130,2011,Macedonia
+150,2011,Madagascar
+15,2011,Malawi
+410,2011,Malaysia
+--,2011,"Maldives, Republic of"
+155,2011,"Mali, Republic of"
+10,2011,Malta
+55,2011,Mauritania
+1145,2011,Mauritius
+3945,2011,Mexico
+1365,2011,Moldova
+--,2011,Monaco
+105,2011,"Mongolia, People's Republic of"
+20,2011,"Montenegro, Republic of"
+4390,2011,Morocco
+--,2011,Mozambique
+365,2011,Myanmar (Burma)
+20,2011,Namibia
+1130,2011,Nepal
+585,2011,"Netherlands, The"
+375,2011,New Zealand
+120,2011,Nicaragua
+90,2011,"Niger, Republic of the"
+3100,2011,Nigeria
+50,2011,Norway
+230,2011,Not stated
+10,2011,Oman
+75,2011,Other Countries
+7465,2011,Pakistan
+555,2011,Palestinian Authority (Gaza/West Bank)
+50,2011,"Panama, Republic of"
+85,2011,Paraguay
+885,2011,Peru
+36760,2011,Philippines
+720,2011,Poland
+530,2011,Portugal
+--,2011,Qatar
+1775,2011,Romania
+1965,2011,Russia
+490,2011,Rwanda
+--,2011,"Samoa, Independent State of"
+280,2011,Saudi Arabia
+740,2011,Senegal
+280,2011,"Serbia, Republic of"
+10,2011,Seychelles
+95,2011,Sierra Leone
+220,2011,Singapore
+135,2011,Slovak Republic
+15,2011,Slovenia
+10,2011,"Solomons, The"
+1530,2011,"Somalia, Democratic Republic of"
+960,2011,"South Africa, Republic of"
+180,2011,Spain
+3310,2011,Sri Lanka
+10,2011,St. Kitts-Nevis
+260,2011,St. Lucia
+450,2011,St. Vincent and the Grenadines
+555,2011,Stateless
+530,2011,"Sudan, Democratic Republic of"
+10,2011,Surinam
+15,2011,Swaziland
+135,2011,Sweden
+265,2011,Switzerland
+1005,2011,Syria
+1705,2011,Taiwan
+45,2011,Tajikistan
+215,2011,"Tanzania, United Republic of"
+395,2011,Thailand
+260,2011,"Togo, Republic of"
+--,2011,Tonga
+590,2011,"Trinidad and Tobago, Republic of"
+1440,2011,Tunisia
+1255,2011,Turkey
+20,2011,Turkmenistan
+--,2011,Tuvalu
+215,2011,Uganda
+2515,2011,Ukraine
+60,2011,United Arab Emirates
+6130,2011,United Kingdom and Colonies
+7670,2011,United States of America
+80,2011,Uruguay
+160,2011,Uzbekistan
+1450,2011,Venezuela
+1725,2011,Vietnam
+160,2011,Yemen
+70,2011,Zambia
+435,2011,Zimbabwe
+2635,2012,Afghanistan
+620,2012,Albania
+3760,2012,Algeria
+--,2012,Andorra
+70,2012,Angola
+50,2012,Antigua and Barbuda
+265,2012,Argentina
+260,2012,Armenia
+980,2012,Australia
+100,2012,Austria
+160,2012,Azerbaijan
+60,2012,"Bahama Islands, The"
+40,2012,Bahrain
+2630,2012,Bangladesh
+130,2012,Barbados
+275,2012,Belarus
+400,2012,Belgium
+35,2012,Belize
+390,2012,"Benin, Republic of"
+1075,2012,Bhutan
+85,2012,Bolivia
+120,2012,Bosnia-Herzegovina
+65,2012,"Botswana, Republic of"
+1640,2012,Brazil
+--,2012,Brunei
+450,2012,Bulgaria
+270,2012,Burkina-Faso
+680,2012,Burundi
+235,2012,Cambodia
+2505,2012,"Cameroon, Federal Republic of"
+5,2012,Cape Verde Islands
+45,2012,Central African Republic
+95,2012,"Chad, Republic of"
+290,2012,Chile
+33010,2012,"China, People's Republic of"
+3735,2012,Colombia
+20,2012,Comoros
+1710,2012,"Congo, Democratic Republic of the"
+90,2012,"Congo, People's Republic of the"
+185,2012,Costa Rica
+110,2012,Croatia
+1300,2012,Cuba
+10,2012,Cyprus
+175,2012,Czech Republic
+95,2012,Denmark
+165,2012,"Djibouti, Republic of"
+45,2012,Dominica
+605,2012,Dominican Republic
+280,2012,Ecuador
+5550,2012,Egypt
+640,2012,El Salvador
+--,2012,"Equatorial Guinea, Republic of"
+1335,2012,Eritrea
+25,2012,Estonia
+1860,2012,Ethiopia
+270,2012,Fiji
+60,2012,Finland
+6270,2012,France
+75,2012,Gabon Republic
+20,2012,Gambia
+150,2012,Georgia
+1700,2012,Germany
+530,2012,Ghana
+145,2012,Greece
+140,2012,Grenada
+360,2012,Guatemala
+405,2012,"Guinea, Republic of"
+--,2012,Guinea-Bissau
+670,2012,Guyana
+5855,2012,Haiti
+435,2012,Honduras
+720,2012,Hong Kong
+300,2012,Hungary
+40,2012,Iceland
+30915,2012,India
+395,2012,"Indonesia, Republic of"
+7525,2012,Iran
+4035,2012,Iraq
+725,2012,"Ireland, Republic of"
+2130,2012,Israel
+440,2012,Italy
+1025,2012,"Ivory Coast, Republic of"
+2175,2012,Jamaica
+1210,2012,Japan
+1205,2012,Jordan
+460,2012,Kazakhstan
+720,2012,Kenya
+--,2012,Kiribati
+65,2012,"Korea, People's Democratic Republic of"
+5315,2012,"Korea, Republic of"
+145,2012,"Kosovo, Republic of"
+75,2012,Kuwait
+280,2012,Kyrgyzstan
+25,2012,Laos
+200,2012,Latvia
+1615,2012,Lebanon
+60,2012,Liberia
+300,2012,Libya
+--,2012,Liechtenstein
+75,2012,Lithuania
+5,2012,Luxembourg
+35,2012,Macau
+125,2012,Macedonia
+165,2012,Madagascar
+10,2012,Malawi
+355,2012,Malaysia
+--,2012,"Maldives, Republic of"
+190,2012,"Mali, Republic of"
+10,2012,Malta
+75,2012,Mauritania
+800,2012,Mauritius
+4225,2012,Mexico
+1415,2012,Moldova
+--,2012,Monaco
+70,2012,"Mongolia, People's Republic of"
+25,2012,"Montenegro, Republic of"
+3855,2012,Morocco
+--,2012,Mozambique
+195,2012,Myanmar (Burma)
+25,2012,Namibia
+1185,2012,Nepal
+500,2012,"Netherlands, The"
+415,2012,New Zealand
+105,2012,Nicaragua
+95,2012,"Niger, Republic of the"
+3440,2012,Nigeria
+55,2012,Norway
+195,2012,Not stated
+15,2012,Oman
+70,2012,Other Countries
+11210,2012,Pakistan
+530,2012,Palestinian Authority (Gaza/West Bank)
+35,2012,"Panama, Republic of"
+--,2012,Papua New Guinea
+55,2012,Paraguay
+785,2012,Peru
+34300,2012,Philippines
+780,2012,Poland
+560,2012,Portugal
+15,2012,Qatar
+1590,2012,Romania
+2075,2012,Russia
+560,2012,Rwanda
+--,2012,"Samoa, Independent State of"
+285,2012,Saudi Arabia
+950,2012,Senegal
+380,2012,"Serbia, Republic of"
+5,2012,Seychelles
+70,2012,Sierra Leone
+145,2012,Singapore
+135,2012,Slovak Republic
+35,2012,Slovenia
+1575,2012,"Somalia, Democratic Republic of"
+1240,2012,"South Africa, Republic of"
+5,2012,"South Sudan, Republic of"
+260,2012,Spain
+3340,2012,Sri Lanka
+20,2012,St. Kitts-Nevis
+380,2012,St. Lucia
+525,2012,St. Vincent and the Grenadines
+485,2012,Stateless
+445,2012,"Sudan, Democratic Republic of"
+15,2012,Surinam
+15,2012,Swaziland
+140,2012,Sweden
+245,2012,Switzerland
+650,2012,Syria
+985,2012,Taiwan
+35,2012,Tajikistan
+225,2012,"Tanzania, United Republic of"
+295,2012,Thailand
+300,2012,"Togo, Republic of"
+--,2012,Tonga
+580,2012,"Trinidad and Tobago, Republic of"
+1495,2012,Tunisia
+1070,2012,Turkey
+20,2012,Turkmenistan
+220,2012,Uganda
+2265,2012,Ukraine
+55,2012,United Arab Emirates
+6170,2012,United Kingdom and Colonies
+7870,2012,United States of America
+45,2012,Uruguay
+235,2012,Uzbekistan
+1365,2012,Venezuela
+1730,2012,Vietnam
+175,2012,Yemen
+45,2012,Zambia
+435,2012,Zimbabwe
+2005,2013,Afghanistan
+605,2013,Albania
+4325,2013,Algeria
+--,2013,Andorra
+45,2013,Angola
+25,2013,Antigua and Barbuda
+280,2013,Argentina
+210,2013,Armenia
+1120,2013,Australia
+90,2013,Austria
+55,2013,Azerbaijan
+55,2013,"Bahama Islands, The"
+30,2013,Bahrain
+3790,2013,Bangladesh
+95,2013,Barbados
+245,2013,Belarus
+380,2013,Belgium
+55,2013,Belize
+395,2013,"Benin, Republic of"
+485,2013,Bhutan
+105,2013,Bolivia
+120,2013,Bosnia-Herzegovina
+75,2013,"Botswana, Republic of"
+1710,2013,Brazil
+5,2013,Brunei
+510,2013,Bulgaria
+320,2013,Burkina-Faso
+480,2013,Burundi
+290,2013,Cambodia
+2440,2013,"Cameroon, Federal Republic of"
+--,2013,Cape Verde Islands
+170,2013,Central African Republic
+85,2013,"Chad, Republic of"
+275,2013,Chile
+34115,2013,"China, People's Republic of"
+3635,2013,Colombia
+20,2013,Comoros
+2050,2013,"Congo, Democratic Republic of the"
+115,2013,"Congo, People's Republic of the"
+120,2013,Costa Rica
+125,2013,Croatia
+1400,2013,Cuba
+15,2013,Cyprus
+175,2013,Czech Republic
+80,2013,Denmark
+205,2013,"Djibouti, Republic of"
+50,2013,Dominica
+590,2013,Dominican Republic
+420,2013,Ecuador
+4165,2013,Egypt
+635,2013,El Salvador
+10,2013,"Equatorial Guinea, Republic of"
+1720,2013,Eritrea
+45,2013,Estonia
+1610,2013,Ethiopia
+230,2013,Fiji
+75,2013,Finland
+5625,2013,France
+90,2013,Gabon Republic
+35,2013,Gambia
+125,2013,Georgia
+1215,2013,Germany
+520,2013,Ghana
+300,2013,Greece
+170,2013,Grenada
+350,2013,Guatemala
+460,2013,"Guinea, Republic of"
+655,2013,Guyana
+4145,2013,Haiti
+350,2013,Honduras
+775,2013,Hong Kong
+425,2013,Hungary
+70,2013,Iceland
+33080,2013,India
+385,2013,"Indonesia, Republic of"
+11290,2013,Iran
+4910,2013,Iraq
+1015,2013,"Ireland, Republic of"
+1945,2013,Israel
+545,2013,Italy
+1170,2013,"Ivory Coast, Republic of"
+2480,2013,Jamaica
+985,2013,Japan
+1255,2013,Jordan
+345,2013,Kazakhstan
+665,2013,Kenya
+15,2013,"Korea, People's Democratic Republic of"
+4510,2013,"Korea, Republic of"
+170,2013,"Kosovo, Republic of"
+50,2013,Kuwait
+125,2013,Kyrgyzstan
+15,2013,Laos
+215,2013,Latvia
+2175,2013,Lebanon
+5,2013,Lesotho
+40,2013,Liberia
+255,2013,Libya
+145,2013,Lithuania
+5,2013,Luxembourg
+30,2013,Macau
+110,2013,Macedonia
+230,2013,Madagascar
+10,2013,Malawi
+205,2013,Malaysia
+--,2013,"Maldives, Republic of"
+190,2013,"Mali, Republic of"
+--,2013,Malta
+55,2013,Mauritania
+1205,2013,Mauritius
+3995,2013,Mexico
+--,2013,"Micronesia, Federated States of"
+1230,2013,Moldova
+--,2013,Monaco
+100,2013,"Mongolia, People's Republic of"
+10,2013,"Montenegro, Republic of"
+3275,2013,Morocco
+10,2013,Mozambique
+260,2013,Myanmar (Burma)
+85,2013,Namibia
+--,2013,Nauru
+1310,2013,Nepal
+395,2013,"Netherlands, The"
+--,2013,New Caledonia
+415,2013,New Zealand
+95,2013,Nicaragua
+105,2013,"Niger, Republic of the"
+4170,2013,Nigeria
+60,2013,Norway
+65,2013,Not stated
+10,2013,Oman
+70,2013,Other Countries
+12610,2013,Pakistan
+460,2013,Palestinian Authority (Gaza/West Bank)
+45,2013,"Panama, Republic of"
+--,2013,Papua New Guinea
+65,2013,Paraguay
+685,2013,Peru
+29530,2013,Philippines
+855,2013,Poland
+630,2013,Portugal
+5,2013,Qatar
+1510,2013,Romania
+2460,2013,Russia
+415,2013,Rwanda
+--,2013,Sao Tome and Principe
+265,2013,Saudi Arabia
+820,2013,Senegal
+295,2013,"Serbia, Republic of"
+5,2013,Seychelles
+65,2013,Sierra Leone
+140,2013,Singapore
+105,2013,Slovak Republic
+20,2013,Slovenia
+--,2013,"Solomons, The"
+2030,2013,"Somalia, Democratic Republic of"
+1240,2013,"South Africa, Republic of"
+30,2013,"South Sudan, Republic of"
+330,2013,Spain
+2395,2013,Sri Lanka
+15,2013,St. Kitts-Nevis
+390,2013,St. Lucia
+540,2013,St. Vincent and the Grenadines
+460,2013,Stateless
+345,2013,"Sudan, Democratic Republic of"
+--,2013,Surinam
+40,2013,Swaziland
+140,2013,Sweden
+200,2013,Switzerland
+1010,2013,Syria
+770,2013,Taiwan
+40,2013,Tajikistan
+180,2013,"Tanzania, United Republic of"
+400,2013,Thailand
+315,2013,"Togo, Republic of"
+5,2013,Tonga
+425,2013,"Trinidad and Tobago, Republic of"
+1625,2013,Tunisia
+730,2013,Turkey
+15,2013,Turkmenistan
+205,2013,Uganda
+2485,2013,Ukraine
+45,2013,United Arab Emirates
+5815,2013,United Kingdom and Colonies
+8485,2013,United States of America
+60,2013,Uruguay
+165,2013,Uzbekistan
+1020,2013,Venezuela
+2110,2013,Vietnam
+215,2013,Yemen
+60,2013,Zambia
+410,2013,Zimbabwe
+1490,2014,Afghanistan
+520,2014,Albania
+3655,2014,Algeria
+20,2014,Angola
+50,2014,Antigua and Barbuda
+215,2014,Argentina
+205,2014,Armenia
+1295,2014,Australia
+100,2014,Austria
+65,2014,Azerbaijan
+60,2014,"Bahama Islands, The"
+25,2014,Bahrain
+2235,2014,Bangladesh
+135,2014,Barbados
+175,2014,Belarus
+355,2014,Belgium
+55,2014,Belize
+240,2014,"Benin, Republic of"
+355,2014,Bhutan
+95,2014,Bolivia
+145,2014,Bosnia-Herzegovina
+105,2014,"Botswana, Republic of"
+1915,2014,Brazil
+--,2014,Brunei
+450,2014,Bulgaria
+340,2014,Burkina-Faso
+515,2014,Burundi
+235,2014,Cambodia
+2105,2014,"Cameroon, Federal Republic of"
+130,2014,Central African Republic
+80,2014,"Chad, Republic of"
+300,2014,Chile
+24625,2014,"China, People's Republic of"
+2860,2014,Colombia
+10,2014,Comoros
+1750,2014,"Congo, Democratic Republic of the"
+85,2014,"Congo, People's Republic of the"
+165,2014,Costa Rica
+295,2014,Croatia
+1080,2014,Cuba
+30,2014,Cyprus
+225,2014,Czech Republic
+70,2014,Denmark
+100,2014,"Djibouti, Republic of"
+35,2014,Dominica
+445,2014,Dominican Republic
+--,2014,"East Timor, Democratic Republic of"
+335,2014,Ecuador
+3160,2014,Egypt
+700,2014,El Salvador
+--,2014,"Equatorial Guinea, Republic of"
+1975,2014,Eritrea
+30,2014,Estonia
+1340,2014,Ethiopia
+255,2014,Fiji
+70,2014,Finland
+4720,2014,France
+70,2014,Gabon Republic
+35,2014,Gambia
+100,2014,Georgia
+1275,2014,Germany
+520,2014,Ghana
+375,2014,Greece
+135,2014,Grenada
+315,2014,Guatemala
+365,2014,"Guinea, Republic of"
+--,2014,Guinea-Bissau
+785,2014,Guyana
+3315,2014,Haiti
+400,2014,Honduras
+585,2014,Hong Kong
+535,2014,Hungary
+40,2014,Iceland
+38335,2014,India
+415,2014,"Indonesia, Republic of"
+16770,2014,Iran
+3895,2014,Iraq
+1975,2014,"Ireland, Republic of"
+1900,2014,Israel
+650,2014,Italy
+1520,2014,"Ivory Coast, Republic of"
+3050,2014,Jamaica
+1125,2014,Japan
+1160,2014,Jordan
+295,2014,Kazakhstan
+455,2014,Kenya
+15,2014,"Korea, People's Democratic Republic of"
+4460,2014,"Korea, Republic of"
+165,2014,"Kosovo, Republic of"
+50,2014,Kuwait
+125,2014,Kyrgyzstan
+30,2014,Laos
+165,2014,Latvia
+2225,2014,Lebanon
+--,2014,Lesotho
+60,2014,Liberia
+300,2014,Libya
+155,2014,Lithuania
+10,2014,Luxembourg
+35,2014,Macau
+115,2014,Macedonia
+110,2014,Madagascar
+20,2014,Malawi
+335,2014,Malaysia
+195,2014,"Mali, Republic of"
+10,2014,Malta
+85,2014,Mauritania
+420,2014,Mauritius
+4480,2014,Mexico
+940,2014,Moldova
+95,2014,"Mongolia, People's Republic of"
+5,2014,"Montenegro, Republic of"
+2490,2014,Morocco
+--,2014,Mozambique
+440,2014,Myanmar (Burma)
+120,2014,Namibia
+--,2014,Nauru
+1220,2014,Nepal
+420,2014,"Netherlands, The"
+--,2014,New Caledonia
+395,2014,New Zealand
+120,2014,Nicaragua
+60,2014,"Niger, Republic of the"
+4160,2014,Nigeria
+45,2014,Norway
+15,2014,Not stated
+10,2014,Oman
+50,2014,Other Countries
+9115,2014,Pakistan
+445,2014,Palestinian Authority (Gaza/West Bank)
+60,2014,"Panama, Republic of"
+40,2014,Paraguay
+710,2014,Peru
+40030,2014,Philippines
+775,2014,Poland
+635,2014,Portugal
+10,2014,Qatar
+1555,2014,Romania
+1770,2014,Russia
+335,2014,Rwanda
+--,2014,"Samoa, Independent State of"
+--,2014,Sao Tome and Principe
+230,2014,Saudi Arabia
+730,2014,Senegal
+320,2014,"Serbia, Republic of"
+--,2014,Seychelles
+60,2014,Sierra Leone
+180,2014,Singapore
+160,2014,Slovak Republic
+30,2014,Slovenia
+--,2014,"Solomons, The"
+1490,2014,"Somalia, Democratic Republic of"
+1000,2014,"South Africa, Republic of"
+25,2014,"South Sudan, Republic of"
+495,2014,Spain
+2605,2014,Sri Lanka
+25,2014,St. Kitts-Nevis
+505,2014,St. Lucia
+605,2014,St. Vincent and the Grenadines
+800,2014,Stateless
+485,2014,"Sudan, Democratic Republic of"
+5,2014,Surinam
+40,2014,Swaziland
+155,2014,Sweden
+205,2014,Switzerland
+2050,2014,Syria
+690,2014,Taiwan
+25,2014,Tajikistan
+135,2014,"Tanzania, United Republic of"
+610,2014,Thailand
+250,2014,"Togo, Republic of"
+--,2014,Tonga
+430,2014,"Trinidad and Tobago, Republic of"
+1470,2014,Tunisia
+715,2014,Turkey
+5,2014,Turkmenistan
+170,2014,Uganda
+2540,2014,Ukraine
+40,2014,United Arab Emirates
+5760,2014,United Kingdom and Colonies
+8490,2014,United States of America
+45,2014,Uruguay
+165,2014,Uzbekistan
+--,2014,Vanuatu
+1485,2014,Venezuela
+2495,2014,Vietnam
+150,2014,Yemen
+45,2014,Zambia
+330,2014,Zimbabwe
+2585,2015,Afghanistan
+575,2015,Albania
+2835,2015,Algeria
+--,2015,Andorra
+30,2015,Angola
+50,2015,Antigua and Barbuda
+235,2015,Argentina
+300,2015,Armenia
+1415,2015,Australia
+120,2015,Austria
+110,2015,Azerbaijan
+75,2015,"Bahama Islands, The"
+35,2015,Bahrain
+3305,2015,Bangladesh
+140,2015,Barbados
+215,2015,Belarus
+360,2015,Belgium
+25,2015,Belize
+260,2015,"Benin, Republic of"
+385,2015,Bhutan
+75,2015,Bolivia
+195,2015,Bosnia-Herzegovina
+95,2015,"Botswana, Republic of"
+1750,2015,Brazil
+10,2015,Brunei
+370,2015,Bulgaria
+235,2015,Burkina-Faso
+940,2015,Burundi
+205,2015,Cambodia
+2035,2015,"Cameroon, Federal Republic of"
+--,2015,Cape Verde Islands
+455,2015,Central African Republic
+85,2015,"Chad, Republic of"
+260,2015,Chile
+19535,2015,"China, People's Republic of"
+2180,2015,Colombia
+10,2015,Comoros
+1715,2015,"Congo, Democratic Republic of the"
+130,2015,"Congo, People's Republic of the"
+120,2015,Costa Rica
+500,2015,Croatia
+825,2015,Cuba
+25,2015,Cyprus
+280,2015,Czech Republic
+75,2015,Denmark
+145,2015,"Djibouti, Republic of"
+30,2015,Dominica
+600,2015,Dominican Republic
+--,2015,"East Timor, Democratic Republic of"
+215,2015,Ecuador
+3760,2015,Egypt
+655,2015,El Salvador
+2170,2015,Eritrea
+55,2015,Estonia
+1365,2015,Ethiopia
+220,2015,Fiji
+85,2015,Finland
+5805,2015,France
+55,2015,Gabon Republic
+40,2015,Gambia
+105,2015,Georgia
+1250,2015,Germany
+370,2015,Ghana
+475,2015,Greece
+115,2015,Grenada
+240,2015,Guatemala
+245,2015,"Guinea, Republic of"
+5,2015,Guinea-Bissau
+540,2015,Guyana
+2725,2015,Haiti
+420,2015,Honduras
+630,2015,Hong Kong
+770,2015,Hungary
+30,2015,Iceland
+39525,2015,India
+375,2015,"Indonesia, Republic of"
+11670,2015,Iran
+3980,2015,Iraq
+2080,2015,"Ireland, Republic of"
+2130,2015,Israel
+830,2015,Italy
+1360,2015,"Ivory Coast, Republic of"
+3425,2015,Jamaica
+995,2015,Japan
+1110,2015,Jordan
+325,2015,Kazakhstan
+385,2015,Kenya
+10,2015,"Korea, People's Democratic Republic of"
+4090,2015,"Korea, Republic of"
+225,2015,"Kosovo, Republic of"
+20,2015,Kuwait
+130,2015,Kyrgyzstan
+20,2015,Laos
+130,2015,Latvia
+2135,2015,Lebanon
+--,2015,Lesotho
+155,2015,Liberia
+245,2015,Libya
+135,2015,Lithuania
+10,2015,Luxembourg
+20,2015,Macau
+220,2015,Macedonia
+115,2015,Madagascar
+25,2015,Malawi
+330,2015,Malaysia
+--,2015,"Maldives, Republic of"
+190,2015,"Mali, Republic of"
+10,2015,Malta
+105,2015,Mauritania
+720,2015,Mauritius
+3230,2015,Mexico
+930,2015,Moldova
+--,2015,Monaco
+45,2015,"Mongolia, People's Republic of"
+25,2015,"Montenegro, Republic of"
+2735,2015,Morocco
+10,2015,Mozambique
+440,2015,Myanmar (Burma)
+100,2015,Namibia
+1500,2015,Nepal
+530,2015,"Netherlands, The"
+330,2015,New Zealand
+95,2015,Nicaragua
+75,2015,"Niger, Republic of the"
+4135,2015,Nigeria
+50,2015,Norway
+35,2015,Not stated
+5,2015,Oman
+60,2015,Other Countries
+11330,2015,Pakistan
+--,2015,"Palau, Republic of"
+555,2015,Palestinian Authority (Gaza/West Bank)
+40,2015,"Panama, Republic of"
+5,2015,Papua New Guinea
+35,2015,Paraguay
+560,2015,Peru
+50830,2015,Philippines
+980,2015,Poland
+820,2015,Portugal
+1185,2015,Romania
+2145,2015,Russia
+360,2015,Rwanda
+--,2015,"Samoa, Independent State of"
+195,2015,Saudi Arabia
+650,2015,Senegal
+575,2015,"Serbia, Republic of"
+--,2015,Seychelles
+95,2015,Sierra Leone
+255,2015,Singapore
+210,2015,Slovak Republic
+40,2015,Slovenia
+--,2015,"Solomons, The"
+1155,2015,"Somalia, Democratic Republic of"
+960,2015,"South Africa, Republic of"
+60,2015,"South Sudan, Republic of"
+710,2015,Spain
+1795,2015,Sri Lanka
+25,2015,St. Kitts-Nevis
+435,2015,St. Lucia
+490,2015,St. Vincent and the Grenadines
+855,2015,Stateless
+360,2015,"Sudan, Democratic Republic of"
+10,2015,Surinam
+35,2015,Swaziland
+175,2015,Sweden
+235,2015,Switzerland
+9855,2015,Syria
+615,2015,Taiwan
+45,2015,Tajikistan
+155,2015,"Tanzania, United Republic of"
+485,2015,Thailand
+260,2015,"Togo, Republic of"
+10,2015,Tonga
+350,2015,"Trinidad and Tobago, Republic of"
+1285,2015,Tunisia
+875,2015,Turkey
+10,2015,Turkmenistan
+180,2015,Uganda
+2375,2015,Ukraine
+35,2015,United Arab Emirates
+5450,2015,United Kingdom and Colonies
+7520,2015,United States of America
+50,2015,Uruguay
+190,2015,Uzbekistan
+--,2015,Vanuatu
+930,2015,Venezuela
+2590,2015,Vietnam
+205,2015,Yemen
+55,2015,Zambia
+240,2015,Zimbabwe
+2635,2016,Afghanistan
+515,2016,Albania
+2820,2016,Algeria
+35,2016,Angola
+45,2016,Antigua and Barbuda
+260,2016,Argentina
+350,2016,Armenia
+1695,2016,Australia
+100,2016,Austria
+115,2016,Azerbaijan
+80,2016,"Bahama Islands, The"
+20,2016,Bahrain
+3230,2016,Bangladesh
+140,2016,Barbados
+360,2016,Belarus
+455,2016,Belgium
+65,2016,Belize
+300,2016,"Benin, Republic of"
+115,2016,Bhutan
+110,2016,Bolivia
+140,2016,Bosnia-Herzegovina
+65,2016,"Botswana, Republic of"
+1725,2016,Brazil
+5,2016,Brunei
+370,2016,Bulgaria
+280,2016,Burkina-Faso
+635,2016,Burundi
+250,2016,Cambodia
+2110,2016,"Cameroon, Federal Republic of"
+--,2016,Cape Verde Islands
+100,2016,Central African Republic
+100,2016,"Chad, Republic of"
+245,2016,Chile
+26850,2016,"China, People's Republic of"
+2440,2016,Colombia
+10,2016,Comoros
+2550,2016,"Congo, Democratic Republic of the"
+140,2016,"Congo, People's Republic of the"
+135,2016,Costa Rica
+635,2016,Croatia
+1120,2016,Cuba
+15,2016,Cyprus
+325,2016,Czech Republic
+80,2016,Denmark
+270,2016,"Djibouti, Republic of"
+30,2016,Dominica
+605,2016,Dominican Republic
+250,2016,Ecuador
+3090,2016,Egypt
+625,2016,El Salvador
+5,2016,"Equatorial Guinea, Republic of"
+4630,2016,Eritrea
+55,2016,Estonia
+1940,2016,Ethiopia
+190,2016,Fiji
+80,2016,Finland
+6350,2016,France
+50,2016,Gabon Republic
+50,2016,Gambia
+120,2016,Georgia
+1210,2016,Germany
+485,2016,Ghana
+435,2016,Greece
+110,2016,Grenada
+200,2016,Guatemala
+410,2016,"Guinea, Republic of"
+5,2016,Guinea-Bissau
+515,2016,Guyana
+2920,2016,Haiti
+360,2016,Honduras
+1210,2016,Hong Kong
+520,2016,Hungary
+15,2016,Iceland
+39790,2016,India
+445,2016,"Indonesia, Republic of"
+6485,2016,Iran
+2410,2016,Iraq
+2220,2016,"Ireland, Republic of"
+2400,2016,Israel
+980,2016,Italy
+1765,2016,"Ivory Coast, Republic of"
+3555,2016,Jamaica
+1035,2016,Japan
+915,2016,Jordan
+400,2016,Kazakhstan
+480,2016,Kenya
+10,2016,"Korea, People's Democratic Republic of"
+4005,2016,"Korea, Republic of"
+185,2016,"Kosovo, Republic of"
+45,2016,Kuwait
+250,2016,Kyrgyzstan
+20,2016,Laos
+135,2016,Latvia
+1935,2016,Lebanon
+10,2016,Lesotho
+155,2016,Liberia
+300,2016,Libya
+190,2016,Lithuania
+5,2016,Luxembourg
+25,2016,Macau
+135,2016,Macedonia
+140,2016,Madagascar
+20,2016,Malawi
+365,2016,Malaysia
+--,2016,"Maldives, Republic of"
+205,2016,"Mali, Republic of"
+5,2016,Malta
+--,2016,"Marshall Islands, Republic of the"
+55,2016,Mauritania
+550,2016,Mauritius
+3400,2016,Mexico
+1090,2016,Moldova
+--,2016,Monaco
+95,2016,"Mongolia, People's Republic of"
+25,2016,"Montenegro, Republic of"
+2115,2016,Morocco
+--,2016,Mozambique
+425,2016,Myanmar (Burma)
+70,2016,Namibia
+750,2016,Nepal
+515,2016,"Netherlands, The"
+--,2016,Nevis
+500,2016,New Zealand
+75,2016,Nicaragua
+85,2016,"Niger, Republic of the"
+4425,2016,Nigeria
+80,2016,Norway
+225,2016,Not stated
+--,2016,Oman
+10,2016,Other Countries
+11335,2016,Pakistan
+440,2016,Palestinian Authority (Gaza/West Bank)
+45,2016,"Panama, Republic of"
+5,2016,Papua New Guinea
+40,2016,Paraguay
+435,2016,Peru
+41785,2016,Philippines
+--,2016,Pitcairn Island
+1000,2016,Poland
+845,2016,Portugal
+--,2016,Qatar
+1360,2016,Romania
+2430,2016,Russia
+365,2016,Rwanda
+5,2016,"Samoa, Independent State of"
+175,2016,Saudi Arabia
+595,2016,Senegal
+475,2016,"Serbia, Republic of"
+5,2016,Seychelles
+90,2016,Sierra Leone
+260,2016,Singapore
+270,2016,Slovak Republic
+35,2016,Slovenia
+--,2016,"Solomons, The"
+1310,2016,"Somalia, Democratic Republic of"
+1075,2016,"South Africa, Republic of"
+95,2016,"South Sudan, Republic of"
+645,2016,Spain
+1545,2016,Sri Lanka
+40,2016,St. Kitts-Nevis
+330,2016,St. Lucia
+425,2016,St. Vincent and the Grenadines
+820,2016,Stateless
+445,2016,"Sudan, Democratic Republic of"
+10,2016,Surinam
+15,2016,Swaziland
+175,2016,Sweden
+215,2016,Switzerland
+34925,2016,Syria
+790,2016,Taiwan
+30,2016,Tajikistan
+115,2016,"Tanzania, United Republic of"
+460,2016,Thailand
+--,2016,Tibet
+245,2016,"Togo, Republic of"
+325,2016,"Trinidad and Tobago, Republic of"
+1310,2016,Tunisia
+920,2016,Turkey
+15,2016,Turkmenistan
+180,2016,Uganda
+3365,2016,Ukraine
+25,2016,United Arab Emirates
+5810,2016,United Kingdom and Colonies
+8410,2016,United States of America
+55,2016,Uruguay
+215,2016,Uzbekistan
+1020,2016,Venezuela
+2445,2016,Vietnam
+--,2016,Western Sahara
+160,2016,Yemen
+55,2016,Zambia
+285,2016,Zimbabwe

@@ -1,0 +1,161 @@
+persons_count,landing_year,education_qualification_eng_desc
+53540,2000,Bachelor's Degree
+3215,2000,Doctorate
+9770,2000,Formal Trade Cert. or Apprenticeship
+17300,2000,Master's Degree
+15105,2000,Non-University Certificate or Diploma
+34280,2000,None
+--,2000,Not stated
+80265,2000,Secondary or Less
+3430,2000,Some Post-Grad. Education - No Degree
+10545,2000,Some University - No Degree
+62035,2001,Bachelor's Degree
+3520,2001,Doctorate
+9220,2001,Formal Trade Cert. or Apprenticeship
+18480,2001,Master's Degree
+18100,2001,Non-University Certificate or Diploma
+38885,2001,None
+85000,2001,Secondary or Less
+4010,2001,Some Post-Grad. Education - No Degree
+11380,2001,Some University - No Degree
+56690,2002,Bachelor's Degree
+3160,2002,Doctorate
+7725,2002,Formal Trade Cert. or Apprenticeship
+18050,2002,Master's Degree
+16315,2002,Non-University Certificate or Diploma
+34920,2002,None
+77720,2002,Secondary or Less
+4010,2002,Some Post-Grad. Education - No Degree
+10460,2002,Some University - No Degree
+55410,2003,Bachelor's Degree
+2770,2003,Doctorate
+7845,2003,Formal Trade Cert. or Apprenticeship
+16625,2003,Master's Degree
+17275,2003,Non-University Certificate or Diploma
+32015,2003,None
+75680,2003,Secondary or Less
+3315,2003,Some Post-Grad. Education - No Degree
+10420,2003,Some University - No Degree
+56450,2004,Bachelor's Degree
+3715,2004,Doctorate
+9405,2004,Formal Trade Cert. or Apprenticeship
+20855,2004,Master's Degree
+19865,2004,Non-University Certificate or Diploma
+33185,2004,None
+79210,2004,Secondary or Less
+3260,2004,Some Post-Grad. Education - No Degree
+9880,2004,Some University - No Degree
+61450,2005,Bachelor's Degree
+4015,2005,Doctorate
+9685,2005,Formal Trade Cert. or Apprenticeship
+25270,2005,Master's Degree
+22350,2005,Non-University Certificate or Diploma
+38055,2005,None
+88560,2005,Secondary or Less
+2975,2005,Some Post-Grad. Education - No Degree
+9885,2005,Some University - No Degree
+55635,2006,Bachelor's Degree
+4270,2006,Doctorate
+10000,2006,Formal Trade Cert. or Apprenticeship
+23565,2006,Master's Degree
+22490,2006,Non-University Certificate or Diploma
+34900,2006,None
+90080,2006,Secondary or Less
+2055,2006,Some Post-Grad. Education - No Degree
+8640,2006,Some University - No Degree
+52865,2007,Bachelor's Degree
+4270,2007,Doctorate
+10165,2007,Formal Trade Cert. or Apprenticeship
+22215,2007,Master's Degree
+20960,2007,Non-University Certificate or Diploma
+35325,2007,None
+82315,2007,Secondary or Less
+1620,2007,Some Post-Grad. Education - No Degree
+7020,2007,Some University - No Degree
+57205,2008,Bachelor's Degree
+4640,2008,Doctorate
+11095,2008,Formal Trade Cert. or Apprenticeship
+25025,2008,Master's Degree
+23675,2008,Non-University Certificate or Diploma
+35875,2008,None
+81760,2008,Secondary or Less
+1415,2008,Some Post-Grad. Education - No Degree
+6550,2008,Some University - No Degree
+59015,2009,Bachelor's Degree
+4375,2009,Doctorate
+12080,2009,Formal Trade Cert. or Apprenticeship
+23455,2009,Master's Degree
+24700,2009,Non-University Certificate or Diploma
+36380,2009,None
+84765,2009,Secondary or Less
+1225,2009,Some Post-Grad. Education - No Degree
+6180,2009,Some University - No Degree
+67395,2010,Bachelor's Degree
+5120,2010,Doctorate
+12545,2010,Formal Trade Cert. or Apprenticeship
+29320,2010,Master's Degree
+26440,2010,Non-University Certificate or Diploma
+43055,2010,None
+--,2010,Not stated
+89885,2010,Secondary or Less
+1100,2010,Some Post-Grad. Education - No Degree
+5825,2010,Some University - No Degree
+55495,2011,Bachelor's Degree
+3665,2011,Doctorate
+10350,2011,Formal Trade Cert. or Apprenticeship
+22260,2011,Master's Degree
+22445,2011,Non-University Certificate or Diploma
+52570,2011,None
+76260,2011,Secondary or Less
+1100,2011,Some Post-Grad. Education - No Degree
+4550,2011,Some University - No Degree
+47570,2012,Bachelor's Degree
+3205,2012,Doctorate
+8800,2012,Formal Trade Cert. or Apprenticeship
+20500,2012,Master's Degree
+19100,2012,Non-University Certificate or Diploma
+86965,2012,None
+--,2012,Not stated
+65840,2012,Secondary or Less
+1490,2012,Some Post-Grad. Education - No Degree
+4295,2012,Some University - No Degree
+50060,2013,Bachelor's Degree
+3745,2013,Doctorate
+9890,2013,Formal Trade Cert. or Apprenticeship
+24270,2013,Master's Degree
+18035,2013,Non-University Certificate or Diploma
+76500,2013,None
+--,2013,Not stated
+64530,2013,Secondary or Less
+3375,2013,Some Post-Grad. Education - No Degree
+8625,2013,Some University - No Degree
+59780,2014,Bachelor's Degree
+3740,2014,Doctorate
+11025,2014,Formal Trade Cert. or Apprenticeship
+27010,2014,Master's Degree
+17350,2014,Non-University Certificate or Diploma
+61825,2014,None
+--,2014,Not stated
+62280,2014,Secondary or Less
+4680,2014,Some Post-Grad. Education - No Degree
+12600,2014,Some University - No Degree
+63755,2015,Bachelor's Degree
+3385,2015,Doctorate
+11115,2015,Formal Trade Cert. or Apprenticeship
+30345,2015,Master's Degree
+15535,2015,Non-University Certificate or Diploma
+55675,2015,None
+2545,2015,Not stated
+69585,2015,Secondary or Less
+5030,2015,Some Post-Grad. Education - No Degree
+14850,2015,Some University - No Degree
+58685,2016,Bachelor's Degree
+2820,2016,Doctorate
+11415,2016,Formal Trade Cert. or Apprenticeship
+26120,2016,Master's Degree
+15180,2016,Non-University Certificate or Diploma
+36295,2016,None
+42410,2016,Not stated
+83080,2016,Secondary or Less
+4645,2016,Some Post-Grad. Education - No Degree
+15685,2016,Some University - No Degree
