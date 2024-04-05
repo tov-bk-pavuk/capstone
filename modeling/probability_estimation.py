@@ -18,7 +18,10 @@ def estimate_probability(user_input: dict):
             probabilities_list.append(probabilities_[category][value])
 
     total = [probability for probability in probabilities_list]
-    return round(sum(total) / datasets_number, 2)
+    prob = round(sum(total) / datasets_number, 2)
+    prob_inverted = 100 - round(sum(total) / datasets_number, 2)
+    # return round(sum(total) / datasets_number, 2)
+    return prob, prob_inverted
 
 
 # if __name__ == '__main__':

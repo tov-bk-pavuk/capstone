@@ -24,8 +24,12 @@ def get_probability(
         }
     # Placeholder function for estimation logic
     # probability = "50%"  # Example probability rate
-    probability = estimate_probability(user_input)
-    return f"Probability rate estimation: {probability}"
+    # probability = estimate_probability(user_input)
+    prob, prob_inverted = estimate_probability(user_input)
+    # return (f"Probability rate estimation: {probability}\n"
+    return (f"Probability to receive a PR: {prob}%\n"
+            # f"Probability rate estimation inverted {prob_inverted}\n"
+            f"Probability to receive a PR the same year {round(prob - 12, 2)}%\n")
 
 
 header_html = """
